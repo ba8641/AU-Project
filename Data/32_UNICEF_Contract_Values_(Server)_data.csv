@@ -1,0 +1,362 @@
+﻿Supplier (group),Year,Company Category (group),Value ($USD)
+"GSK (incl. Novartis, Chiron)",2020,MNC,292067905
+"GSK (incl. Novartis, Chiron)",2019,MNC,319667689
+"GSK (incl. Novartis, Chiron)",2018,MNC,348142192
+"GSK (incl. Novartis, Chiron)",2017,MNC,414812767
+"GSK (incl. Novartis, Chiron)",2016,MNC,582579442
+"GSK (incl. Novartis, Chiron)",2015,MNC,439808928
+"GSK (incl. Novartis, Chiron)",2014,MNC,424098590
+"GSK (incl. Novartis, Chiron)",2013,MNC,293595125
+"GSK (incl. Novartis, Chiron)",2012,MNC,337518463
+"GSK (incl. Novartis, Chiron)",2011,MNC,246977901
+"GSK (incl. Novartis, Chiron)",2010,MNC,203256613
+"GSK (incl. Novartis, Chiron)",2009,MNC,257642970
+"GSK (incl. Novartis, Chiron)",2008,MNC,181505954
+"GSK (incl. Novartis, Chiron)",2007,MNC,184069304
+"GSK (incl. Novartis, Chiron)",2006,MNC,193433485
+"GSK (incl. Novartis, Chiron)",2005,MNC,204536771
+"GSK (incl. Novartis, Chiron)",2004,MNC,192502106
+"GSK (incl. Novartis, Chiron)",2003,MNC,185392402
+"GSK (incl. Novartis, Chiron)",2002,MNC,108771440
+"GSK (incl. Novartis, Chiron)",2001,MNC,129741057
+SII (incl. Bilthoven),2020,"India, Indonesia",254108416
+SII (incl. Bilthoven),2019,"India, Indonesia",361076137
+SII (incl. Bilthoven),2018,"India, Indonesia",340962145
+SII (incl. Bilthoven),2017,"India, Indonesia",310812056
+SII (incl. Bilthoven),2016,"India, Indonesia",363269975
+SII (incl. Bilthoven),2015,"India, Indonesia",440992895
+SII (incl. Bilthoven),2014,"India, Indonesia",393282364
+SII (incl. Bilthoven),2013,"India, Indonesia",368489806
+SII (incl. Bilthoven),2012,"India, Indonesia",254583814
+SII (incl. Bilthoven),2011,"India, Indonesia",213858023
+SII (incl. Bilthoven),2010,"India, Indonesia",51349240
+SII (incl. Bilthoven),2009,"India, Indonesia",32111370
+SII (incl. Bilthoven),2008,"India, Indonesia",45752298
+SII (incl. Bilthoven),2007,"India, Indonesia",80794288
+SII (incl. Bilthoven),2006,"India, Indonesia",38171454
+SII (incl. Bilthoven),2005,"India, Indonesia",722397
+SII (incl. Bilthoven),2004,"India, Indonesia",29936006
+SII (incl. Bilthoven),2003,"India, Indonesia",25876082
+SII (incl. Bilthoven),2002,"India, Indonesia",20027674
+SII (incl. Bilthoven),2001,"India, Indonesia",18132179
+Pfizer,2020,MNC,254811024
+Pfizer,2019,MNC,362556727
+Pfizer,2018,MNC,341832113
+Pfizer,2017,MNC,235456048
+Pfizer,2016,MNC,290989657
+Pfizer,2015,MNC,361105225
+Pfizer,2014,MNC,299015561
+Pfizer,2013,MNC,219072780
+Pfizer,2012,MNC,174528900
+Pfizer,2011,MNC,137039700
+Pfizer,2010,MNC,29962800
+Sanofi Pasteur,2020,MNC,165961029
+Sanofi Pasteur,2019,MNC,190801452
+Sanofi Pasteur,2018,MNC,124653894
+Sanofi Pasteur,2017,MNC,96920950
+Sanofi Pasteur,2016,MNC,101629218
+Sanofi Pasteur,2015,MNC,126082670
+Sanofi Pasteur,2014,MNC,93915365
+Sanofi Pasteur,2013,MNC,97098348
+Sanofi Pasteur,2012,MNC,104434389
+Sanofi Pasteur,2011,MNC,91703131
+Sanofi Pasteur,2010,MNC,77916524
+Sanofi Pasteur,2009,MNC,100273502
+Sanofi Pasteur,2008,MNC,77938004
+Sanofi Pasteur,2007,MNC,77748245
+Sanofi Pasteur,2006,MNC,83967735
+Sanofi Pasteur,2005,MNC,57053988
+Sanofi Pasteur,2004,MNC,60865900
+Sanofi Pasteur,2003,MNC,68561096
+Sanofi Pasteur,2002,MNC,39988410
+Sanofi Pasteur,2001,MNC,28981709
+Janssen (incl. Berna),2017,MNC,9710280
+Janssen (incl. Berna),2016,MNC,54624953
+Janssen (incl. Berna),2015,MNC,79650179
+Janssen (incl. Berna),2014,MNC,76597909
+Janssen (incl. Berna),2013,MNC,126719499
+Janssen (incl. Berna),2012,MNC,94542325
+Janssen (incl. Berna),2011,MNC,213946892
+Janssen (incl. Berna),2010,MNC,190376470
+Janssen (incl. Berna),2009,MNC,184113495
+Janssen (incl. Berna),2008,MNC,143451205
+Janssen (incl. Berna),2007,MNC,77017120
+Janssen (incl. Berna),2006,MNC,19561981
+Janssen (incl. Berna),2005,MNC,5784466
+Janssen (incl. Berna),2004,MNC,7047935
+Janssen (incl. Berna),2003,MNC,4265496
+Janssen (incl. Berna),2002,MNC,209295
+Panacea Biotec,2020,"India, Indonesia",2400983
+Panacea Biotec,2019,"India, Indonesia",1800000
+Panacea Biotec,2017,"India, Indonesia",12236000
+Panacea Biotec,2016,"India, Indonesia",19537050
+Panacea Biotec,2015,"India, Indonesia",19439823
+Panacea Biotec,2014,"India, Indonesia",22180763
+Panacea Biotec,2013,"India, Indonesia",701752
+Panacea Biotec,2012,"India, Indonesia",832451
+Panacea Biotec,2011,"India, Indonesia",78548078
+Panacea Biotec,2010,"India, Indonesia",160032804
+Panacea Biotec,2009,"India, Indonesia",116467356
+Panacea Biotec,2008,"India, Indonesia",115160293
+Panacea Biotec,2007,"India, Indonesia",151463428
+Panacea Biotec,2006,"India, Indonesia",124281631
+Panacea Biotec,2005,"India, Indonesia",86838558
+Panacea Biotec,2004,"India, Indonesia",43754388
+Panacea Biotec,2003,"India, Indonesia",25129438
+Panacea Biotec,2002,"India, Indonesia",10420935
+Sanofi India,2019,"India, Indonesia",92347182
+Sanofi India,2018,"India, Indonesia",44715532
+Sanofi India,2017,"India, Indonesia",43716319
+Sanofi India,2016,"India, Indonesia",35733050
+Sanofi India,2015,"India, Indonesia",42775138
+Sanofi India,2014,"India, Indonesia",336224
+Sanofi India,2013,"India, Indonesia",432314
+Sanofi India,2012,"India, Indonesia",1777928
+Sanofi India,2011,"India, Indonesia",651005
+Sanofi India,2010,"India, Indonesia",1337104
+Sanofi India,2009,"India, Indonesia",52564982
+Sanofi India,2008,"India, Indonesia",34219701
+Sanofi India,2007,"India, Indonesia",8660260
+Sanofi India,2006,"India, Indonesia",5667721
+Sanofi India,2005,"India, Indonesia",8451893
+Sanofi India,2004,"India, Indonesia",4501598
+Sanofi India,2003,"India, Indonesia",3423375
+Sanofi India,2002,"India, Indonesia",582842
+Merck,2020,MNC,65304475
+Merck,2019,MNC,69329045
+Merck,2018,MNC,39499029
+Merck,2017,MNC,38907321
+Merck,2016,MNC,32666265
+Merck,2015,MNC,36970382
+Merck,2014,MNC,25591033
+Merck,2013,MNC,19592053
+Merck,2012,MNC,6432750
+Merck,2008,MNC,220830
+Merck,2006,MNC,1261552
+Merck,2005,MNC,4666329
+Merck,2004,MNC,2741254
+Merck,2003,MNC,1054631
+Merck,2002,MNC,625195
+Merck,2001,MNC,119600
+Biological E,2016,"India, Indonesia",72410750
+Biological E,2015,"India, Indonesia",86156833
+Biological E,2014,"India, Indonesia",82343004
+Biological E,2013,"India, Indonesia",49826410
+Biological E,2012,"India, Indonesia",36522602
+Biological E,2011,"India, Indonesia",844097
+Biological E,2010,"India, Indonesia",126887
+Bio Farma,2020,"India, Indonesia",7203040
+Bio Farma,2019,"India, Indonesia",18146372
+Bio Farma,2018,"India, Indonesia",24626838
+Bio Farma,2017,"India, Indonesia",26928658
+Bio Farma,2016,"India, Indonesia",22738780
+Bio Farma,2015,"India, Indonesia",30390747
+Bio Farma,2014,"India, Indonesia",27774861
+Bio Farma,2013,"India, Indonesia",25980482
+Bio Farma,2012,"India, Indonesia",19879333
+Bio Farma,2011,"India, Indonesia",21051890
+Bio Farma,2010,"India, Indonesia",15005842
+Bio Farma,2009,"India, Indonesia",10153148
+Bio Farma,2008,"India, Indonesia",4344210
+Bio Farma,2007,"India, Indonesia",4656625
+Bio Farma,2006,"India, Indonesia",3565240
+Bio Farma,2005,"India, Indonesia",452034
+Bio Farma,2004,"India, Indonesia",2502810
+Bio Farma,2003,"India, Indonesia",2111675
+Bio Farma,2002,"India, Indonesia",1525622
+Bio Farma,2001,"India, Indonesia",1615428
+Bharat Biotech,2020,"India, Indonesia",83795461
+Bharat Biotech,2019,"India, Indonesia",68671391
+Bharat Biotech,2018,"India, Indonesia",38104645
+Bharat Biotech,2017,"India, Indonesia",24727248
+Bharat Biotech,2016,"India, Indonesia",14441424
+Bharat Biotech,2015,"India, Indonesia",13211738
+Bharat Biotech,2011,"India, Indonesia",3108234
+Bharat Biotech,2001,"India, Indonesia",3212209
+Chumakov Institute,2020,Other,44898730
+Chumakov Institute,2019,Other,40211932
+Chumakov Institute,2018,Other,46813025
+Chumakov Institute,2017,Other,26731452
+Chumakov Institute,2016,Other,16795363
+Chumakov Institute,2015,Other,15700734
+Chumakov Institute,2014,Other,11953578
+Chumakov Institute,2013,Other,7580832
+Chumakov Institute,2012,Other,8844330
+Chumakov Institute,2011,Other,3798564
+Chumakov Institute,2010,Other,3085104
+Haffkine,2020,"India, Indonesia",549780
+Haffkine,2019,"India, Indonesia",8941140
+Haffkine,2018,"India, Indonesia",10975580
+Haffkine,2017,"India, Indonesia",1309765
+Haffkine,2016,"India, Indonesia",9122500
+Haffkine,2015,"India, Indonesia",15125213
+Haffkine,2014,"India, Indonesia",30622945
+Haffkine,2013,"India, Indonesia",55128852
+Haffkine,2012,"India, Indonesia",19816580
+Haffkine,2011,"India, Indonesia",2892500
+Haffkine,2010,"India, Indonesia",7949875
+Haffkine,2009,"India, Indonesia",27524410
+Haffkine,2008,"India, Indonesia",2994409
+Haffkine,2007,"India, Indonesia",5522047
+Haffkine,2006,"India, Indonesia",620880
+Haffkine,2002,"India, Indonesia",3755991
+Haffkine,2001,"India, Indonesia",11131244
+LG Life Sciences,2020,"China, Japan, Korea",33178682
+LG Life Sciences,2019,"China, Japan, Korea",33486617
+LG Life Sciences,2018,"China, Japan, Korea",28812838
+LG Life Sciences,2017,"China, Japan, Korea",27248293
+LG Life Sciences,2016,"China, Japan, Korea",15580426
+LG Life Sciences,2015,"China, Japan, Korea",2771391
+LG Life Sciences,2014,"China, Japan, Korea",2689937
+LG Life Sciences,2013,"China, Japan, Korea",2708489
+LG Life Sciences,2012,"China, Japan, Korea",3643297
+LG Life Sciences,2011,"China, Japan, Korea",2053460
+LG Life Sciences,2010,"China, Japan, Korea",2463985
+LG Life Sciences,2009,"China, Japan, Korea",6823834
+LG Life Sciences,2008,"China, Japan, Korea",6486598
+LG Life Sciences,2007,"China, Japan, Korea",4947898
+LG Life Sciences,2006,"China, Japan, Korea",8598603
+LG Life Sciences,2005,"China, Japan, Korea",7396999
+LG Life Sciences,2004,"China, Japan, Korea",9122181
+LG Life Sciences,2003,"China, Japan, Korea",6750875
+LG Life Sciences,2002,"China, Japan, Korea",3999679
+LG Life Sciences,2001,"China, Japan, Korea",3289742
+BE Vaccines,2020,"India, Indonesia",67313827
+BE Vaccines,2019,"India, Indonesia",42740348
+BE Vaccines,2018,"India, Indonesia",31952523
+BE Vaccines,2017,"India, Indonesia",13929742
+BE Vaccines,2016,"India, Indonesia",6471864
+BE Vaccines,2015,"India, Indonesia",111118
+EuBiologics Co Ltd,2020,"China, Japan, Korea",20170224
+EuBiologics Co Ltd,2019,"China, Japan, Korea",22600248
+EuBiologics Co Ltd,2018,"China, Japan, Korea",21498404
+EuBiologics Co Ltd,2017,"China, Japan, Korea",12385060
+EuBiologics Co Ltd,2016,"China, Japan, Korea",2006000
+Sanofi India Ltd,2020,"India, Indonesia",75124473
+InterVax,2018,MNC,6396113
+InterVax,2017,MNC,5907296
+InterVax,2016,MNC,5035947
+InterVax,2015,MNC,5587235
+InterVax,2014,MNC,7003470
+InterVax,2013,MNC,6471298
+InterVax,2012,MNC,3719725
+InterVax,2011,MNC,820633
+InterVax,2010,MNC,6022188
+InterVax,2009,MNC,4353950
+InterVax,2008,MNC,3942859
+InterVax,2007,MNC,3043675
+InterVax,2006,MNC,1122711
+InterVax,2005,MNC,1613217
+InterVax,2004,MNC,1165640
+InterVax,2003,MNC,2243840
+InterVax,2002,MNC,2061584
+InterVax,2001,MNC,4223830
+AJ Vaccines (Statens Serum Institut),2020,Other,11520767
+AJ Vaccines (Statens Serum Institut),2019,Other,1012022
+AJ Vaccines (Statens Serum Institut),2018,Other,179280
+AJ Vaccines (Statens Serum Institut),2014,Other,508532
+AJ Vaccines (Statens Serum Institut),2013,Other,271014
+AJ Vaccines (Statens Serum Institut),2012,Other,1417054
+AJ Vaccines (Statens Serum Institut),2011,Other,1077008
+AJ Vaccines (Statens Serum Institut),2009,Other,3969584
+AJ Vaccines (Statens Serum Institut),2008,Other,6303058
+AJ Vaccines (Statens Serum Institut),2007,Other,5350319
+AJ Vaccines (Statens Serum Institut),2006,Other,4163414
+AJ Vaccines (Statens Serum Institut),2005,Other,3369266
+AJ Vaccines (Statens Serum Institut),2004,Other,6981601
+AJ Vaccines (Statens Serum Institut),2003,Other,10038217
+AJ Vaccines (Statens Serum Institut),2002,Other,7219405
+AJ Vaccines (Statens Serum Institut),2001,Other,6515191
+Japan BCG Laboratory,2020,"China, Japan, Korea",4533568
+Japan BCG Laboratory,2019,"China, Japan, Korea",2766620
+Japan BCG Laboratory,2018,"China, Japan, Korea",2413080
+Japan BCG Laboratory,2017,"China, Japan, Korea",3517756
+Japan BCG Laboratory,2016,"China, Japan, Korea",3598716
+Japan BCG Laboratory,2015,"China, Japan, Korea",1967526
+Japan BCG Laboratory,2014,"China, Japan, Korea",4224676
+Japan BCG Laboratory,2013,"China, Japan, Korea",4694559
+Japan BCG Laboratory,2012,"China, Japan, Korea",2503144
+Japan BCG Laboratory,2011,"China, Japan, Korea",3125820
+Japan BCG Laboratory,2010,"China, Japan, Korea",3476528
+Japan BCG Laboratory,2009,"China, Japan, Korea",4112406
+Japan BCG Laboratory,2008,"China, Japan, Korea",3503712
+Japan BCG Laboratory,2007,"China, Japan, Korea",3261517
+Japan BCG Laboratory,2006,"China, Japan, Korea",4058780
+Japan BCG Laboratory,2005,"China, Japan, Korea",4121413
+Japan BCG Laboratory,2004,"China, Japan, Korea",3402148
+Japan BCG Laboratory,2003,"China, Japan, Korea",2450388
+Japan BCG Laboratory,2002,"China, Japan, Korea",1804120
+Japan BCG Laboratory,2001,"China, Japan, Korea",2598125
+Bio-Manguinhos,2020,"Brazil, Cuba",4367653
+Bio-Manguinhos,2019,"Brazil, Cuba",4121476
+Bio-Manguinhos,2018,"Brazil, Cuba",362405
+Bio-Manguinhos,2017,"Brazil, Cuba",188555
+Bio-Manguinhos,2016,"Brazil, Cuba",4794720
+Bio-Manguinhos,2013,"Brazil, Cuba",4948795
+Bio-Manguinhos,2012,"Brazil, Cuba",4802676
+Bio-Manguinhos,2011,"Brazil, Cuba",1367805
+Bio-Manguinhos,2010,"Brazil, Cuba",3313710
+Bio-Manguinhos,2009,"Brazil, Cuba",4070318
+Bio-Manguinhos,2008,"Brazil, Cuba",4431373
+Bio-Manguinhos,2007,"Brazil, Cuba",5337728
+Bio-Manguinhos,2006,"Brazil, Cuba",955500
+Bio-Manguinhos,2005,"Brazil, Cuba",2269680
+Bio-Manguinhos,2004,"Brazil, Cuba",4126230
+Bio-Manguinhos,2003,"Brazil, Cuba",734421
+Bio-Manguinhos,2002,"Brazil, Cuba",752333
+Institut Pasteur de Dakar,2020,Other,1048000
+Institut Pasteur de Dakar,2019,Other,587797
+Institut Pasteur de Dakar,2018,Other,2029373
+Institut Pasteur de Dakar,2017,Other,674876
+Institut Pasteur de Dakar,2016,Other,3905271
+Institut Pasteur de Dakar,2015,Other,2329939
+Institut Pasteur de Dakar,2014,Other,1401371
+Institut Pasteur de Dakar,2013,Other,2453331
+Institut Pasteur de Dakar,2011,Other,706745
+Institut Pasteur de Dakar,2010,Other,1561546
+Institut Pasteur de Dakar,2009,Other,3484855
+Institut Pasteur de Dakar,2008,Other,3120105
+Institut Pasteur de Dakar,2007,Other,4934388
+Institut Pasteur de Dakar,2006,Other,210000
+Institut Pasteur de Dakar,2005,Other,336000
+Institut Pasteur de Dakar,2004,Other,2404100
+Institut Pasteur de Dakar,2003,Other,432740
+Institut Pasteur de Dakar,2002,Other,1332495
+Institut Pasteur de Dakar,2001,Other,916100
+Green Cross Vaccine,2020,"China, Japan, Korea",8820650
+Green Cross Vaccine,2019,"China, Japan, Korea",2228273
+Green Cross Vaccine,2018,"China, Japan, Korea",607500
+Green Cross Vaccine,2017,"China, Japan, Korea",228000
+Green Cross Vaccine,2015,"China, Japan, Korea",397540
+Green Cross Vaccine,2013,"China, Japan, Korea",105145
+Green Cross Vaccine,2001,"China, Japan, Korea",7024395
+Sinovac,2020,"China, Japan, Korea",11301765
+Sinovac,2019,"China, Japan, Korea",7737350
+Chengdu Institute of Biological Products,2020,"China, Japan, Korea",1004768
+Chengdu Institute of Biological Products,2019,"China, Japan, Korea",380522
+Chengdu Institute of Biological Products,2018,"China, Japan, Korea",679102
+Chengdu Institute of Biological Products,2017,"China, Japan, Korea",8274776
+Chengdu Institute of Biological Products,2015,"China, Japan, Korea",3597099
+Chengdu Institute of Biological Products,2014,"China, Japan, Korea",480704
+BB-NCIPD Ltd,2020,Other,4787522
+BB-NCIPD Ltd,2019,Other,5107030
+Green SB,2019,"India, Indonesia",314895
+Green SB,2018,"India, Indonesia",1863936
+Green SB,2017,"India, Indonesia",2747772
+Green SB,2016,"India, Indonesia",1274894
+Green SB,2015,"India, Indonesia",562836
+CSL,2007,MNC,385475
+CSL,2006,MNC,378385
+CSL,2005,MNC,201771
+CSL,2004,MNC,1588138
+CSL,2003,MNC,2537536
+CSL,2002,MNC,1020957
+CSL,2001,MNC,370640
+Beijing Bio Institute of Biological Products,2020,"China, Japan, Korea",872080
+Beijing Bio Institute of Biological Products,2019,"China, Japan, Korea",799658
+NVI (Netherlands Vaccine Institute),2012,Other,717123
+NVI (Netherlands Vaccine Institute),2011,Other,302728
+NVI (Netherlands Vaccine Institute),2006,Other,132090
+Premium Serums and Vaccines Pvt Ltd,2019,"India, Indonesia",284284
+Institut Pasteur D’Algérie,2020,Other,132935
+Institut Pasteur D’Algérie,2019,Other,151007

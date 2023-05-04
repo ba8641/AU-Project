@@ -1,0 +1,339 @@
+﻿Gavi/Non-Gavi,Vaccine Category,Vaccine Sub-type (group),Pipeline Status ,Distinct count of Company
+CMV,CMV,CMV,Phase II,2
+Gavi,Traditional,OCV,PQ'd,3
+Gavi,Traditional,MR,PQ'd,2
+Gavi,Traditional,Measles,PQ'd,2
+Gavi,Traditional,JE,PQ'd,3
+Gavi,Traditional,IPV,PQ'd,6
+Gavi,Traditional,DTwP-HepB-Hib,PQ'd,7
+Gavi,Traditional,OCV,Marketed,8
+Gavi,Traditional,MR,Marketed,11
+Gavi,Traditional,Measles,Marketed,13
+Gavi,Traditional,JE,Marketed,13
+Gavi,Traditional,IPV,Marketed,7
+Gavi,Traditional,DTwP-HepB-Hib,Marketed,7
+Gavi,Traditional,IPV,Pre-Reg.,2
+Gavi,Traditional,OCV,Phase III,2
+Gavi,Traditional,MR,Phase III,2
+Gavi,Traditional,JE,Phase III,1
+Gavi,Traditional,IPV,Phase III,1
+Gavi,Traditional,OCV,Phase II,2
+Gavi,Traditional,MR,Phase II,1
+Gavi,Traditional,IPV,Phase II,4
+Gavi,Traditional,OCV,Phase I,2
+Gavi,Traditional,IPV,Phase I,2
+Gavi,Traditional,OCV,Preclinical,1
+Gavi,Traditional,MR,Preclinical,3
+Gavi,Traditional,Measles,Preclinical,1
+Gavi,Traditional,JE,Preclinical,2
+Gavi,Traditional,IPV,Preclinical,5
+Gavi,Innovator,TCV,PQ'd,2
+Gavi,Innovator,Rota,PQ'd,4
+Gavi,Innovator,PCV13,PQ'd,1
+Gavi,Innovator,PCV10,PQ'd,2
+Gavi,Innovator,MenA,PQ'd,1
+Gavi,Innovator,HPV9,PQ'd,1
+Gavi,Innovator,HPV4,PQ'd,1
+Gavi,Innovator,HPV2,PQ'd,2
+Gavi,Innovator,TCV,Marketed,3
+Gavi,Innovator,Rota,Marketed,2
+Gavi,Innovator,PCV (Other),Marketed,1
+Gavi,Innovator,PCV13,Marketed,3
+Gavi,Innovator,PCV7,Marketed,1
+Gavi,Innovator,HPV2,Marketed,2
+Gavi,Innovator,Rota,Pre-Reg.,1
+Gavi,Innovator,PCV13,Pre-Reg.,1
+Gavi,Innovator,TCV,Phase III,3
+Gavi,Innovator,Rota,Phase III,2
+Gavi,Innovator,PCV (Other),Phase III,3
+Gavi,Innovator,PCV13,Phase III,2
+Gavi,Innovator,PCV7,Phase III,1
+Gavi,Innovator,HPV9,Phase III,3
+Gavi,Innovator,HPV4,Phase III,3
+Gavi,Innovator,Rota,Phase II,6
+Gavi,Innovator,PCV (Other),Phase II,2
+Gavi,Innovator,PCV13,Phase II,1
+Gavi,Innovator,PCV10,Phase II,1
+Gavi,Innovator,HPV (other),Phase II,4
+Gavi,Innovator,HPV9,Phase II,1
+Gavi,Innovator,HPV4,Phase II,3
+Gavi,Innovator,HPV2,Phase II,1
+Gavi,Innovator,TCV,Phase I,1
+Gavi,Innovator,Rota,Phase I,3
+Gavi,Innovator,PCV (Other),Phase I,1
+Gavi,Innovator,PCV13,Phase I,2
+Gavi,Innovator,HPV9,Phase I,3
+Gavi,Innovator,HPV2,Phase I,2
+Gavi,Innovator,PCV5,Preclinical,1
+Gavi,Innovator,TCV,Preclinical,4
+Gavi,Innovator,Rota,Preclinical,8
+Gavi,Innovator,PCV (Other),Preclinical,4
+Gavi,Innovator,PCV13,Preclinical,5
+Gavi,Innovator,HPV (other),Preclinical,17
+Gavi,Innovator,HPV9,Preclinical,2
+Gavi,Innovator,HPV4,Preclinical,2
+Gavi,Innovator,HPV2,Preclinical,3
+Gavi,Tropical,YF,PQ'd,4
+Gavi,Tropical,YF,Marketed,2
+Gavi,Tropical,YF,Phase III,1
+Gavi,Tropical,YF,Phase I,3
+Gavi,Tropical,YF,Preclinical,5
+Non-Gavi,Traditional,Typhoid Ps,PQ'd,1
+Non-Gavi,Traditional,TT,PQ'd,6
+Non-Gavi,Traditional,Tdap,PQ'd,2
+Non-Gavi,Traditional,Td,PQ'd,5
+Non-Gavi,Traditional,Rubella,PQ'd,1
+Non-Gavi,Traditional,Rabies,PQ'd,4
+Non-Gavi,Traditional,mOPV3,PQ'd,2
+Non-Gavi,Traditional,mOPV2,PQ'd,3
+Non-Gavi,Traditional,mOPV1,PQ'd,4
+Non-Gavi,Traditional,Hib,PQ'd,3
+Non-Gavi,Traditional,HepB,PQ'd,4
+Non-Gavi,Traditional,HepA,PQ'd,2
+Non-Gavi,Traditional,DTwP-Hib,PQ'd,1
+Non-Gavi,Traditional,DTwP-HepB,PQ'd,1
+Non-Gavi,Traditional,DTwP,PQ'd,3
+Non-Gavi,Traditional,DT,PQ'd,3
+Non-Gavi,Traditional,bOPV,PQ'd,8
+Non-Gavi,Traditional,BCG,PQ'd,4
+Non-Gavi,Traditional,Typhoid Ps,Marketed,20
+Non-Gavi,Traditional,TT,Marketed,24
+Non-Gavi,Traditional,Tdap,Marketed,3
+Non-Gavi,Traditional,Td-IPV,Marketed,1
+Non-Gavi,Traditional,Td,Marketed,16
+Non-Gavi,Traditional,Rubella,Marketed,7
+Non-Gavi,Traditional,Rabies,Marketed,29
+Non-Gavi,Traditional,Mumps,Marketed,4
+Non-Gavi,Traditional,mOPV3,Marketed,1
+Non-Gavi,Traditional,mOPV1,Marketed,1
+Non-Gavi,Traditional,MM,Marketed,3
+Non-Gavi,Traditional,Hib,Marketed,12
+Non-Gavi,Traditional,HepB,Marketed,29
+Non-Gavi,Traditional,HepA,Marketed,12
+Non-Gavi,Traditional,DTwP-Hib,Marketed,3
+Non-Gavi,Traditional,DTwP-HepB,Marketed,7
+Non-Gavi,Traditional,DTwP,Marketed,17
+Non-Gavi,Traditional,DTaP-Hib,Marketed,2
+Non-Gavi,Traditional,DTaP-HepB,Marketed,1
+Non-Gavi,Traditional,DTaP,Marketed,9
+Non-Gavi,Traditional,DT-Rubella,Marketed,1
+Non-Gavi,Traditional,DT,Marketed,18
+Non-Gavi,Traditional,Diphtheria,Marketed,5
+Non-Gavi,Traditional,bOPV,Marketed,6
+Non-Gavi,Traditional,BCG,Marketed,20
+Non-Gavi,Traditional,aP,Marketed,3
+Non-Gavi,Traditional,HepB,Pre-Reg.,1
+Non-Gavi,Traditional,DTaP,Pre-Reg.,1
+Non-Gavi,Traditional,DT,Pre-Reg.,1
+Non-Gavi,Traditional,Td,Phase III,1
+Non-Gavi,Traditional,Rabies,Phase III,4
+Non-Gavi,Traditional,Mumps,Phase III,1
+Non-Gavi,Traditional,Hib,Phase III,1
+Non-Gavi,Traditional,HepA,Phase III,2
+Non-Gavi,Traditional,DTaP-Hib,Phase III,1
+Non-Gavi,Traditional,DTaP,Phase III,1
+Non-Gavi,Traditional,Tdap,Phase II,2
+Non-Gavi,Traditional,Rabies,Phase II,2
+Non-Gavi,Traditional,mOPV2,Phase II,2
+Non-Gavi,Traditional,HepB,Phase II,3
+Non-Gavi,Traditional,DTaP,Phase II,1
+Non-Gavi,Traditional,Rubella,Phase I,1
+Non-Gavi,Traditional,Rabies,Phase I,4
+Non-Gavi,Traditional,HepB,Phase I,4
+Non-Gavi,Traditional,HepA,Phase I,3
+Non-Gavi,Traditional,DTwP-Hib,Phase I,1
+Non-Gavi,Traditional,DTwP,Phase I,1
+Non-Gavi,Traditional,DTaP,Phase I,2
+Non-Gavi,Traditional,BCG,Phase I,1
+Non-Gavi,Traditional,TT,Preclinical,4
+Non-Gavi,Traditional,Tdap,Preclinical,1
+Non-Gavi,Traditional,Rabies,Preclinical,9
+Non-Gavi,Traditional,Mumps,Preclinical,2
+Non-Gavi,Traditional,HepB,Preclinical,12
+Non-Gavi,Traditional,DTaP-Hib,Preclinical,2
+Non-Gavi,Traditional,DTaP,Preclinical,4
+Non-Gavi,Traditional,Diphtheria,Preclinical,1
+Non-Gavi,Traditional,aP,Preclinical,1
+Non-Gavi,Innovator,Varicella,PQ'd,2
+Non-Gavi,Innovator,MMR,PQ'd,3
+Non-Gavi,Innovator,MenACYW-135,PQ'd,3
+Non-Gavi,Innovator,DTaP-HepB-Hib-IPV,PQ'd,1
+Non-Gavi,Innovator,Varicella,Marketed,14
+Non-Gavi,Innovator,PPSV23,Marketed,5
+Non-Gavi,Innovator,MMRV,Marketed,2
+Non-Gavi,Innovator,MMR,Marketed,8
+Non-Gavi,Innovator,MenC-Hib,Marketed,1
+Non-Gavi,Innovator,MenC Ps,Marketed,1
+Non-Gavi,Innovator,MenC,Marketed,4
+Non-Gavi,Innovator,MenBC,Marketed,2
+Non-Gavi,Innovator,MenB,Marketed,2
+Non-Gavi,Innovator,MenACYW-135 Ps,Marketed,8
+Non-Gavi,Innovator,MenACYW-135,Marketed,1
+Non-Gavi,Innovator,MenACW-135 Ps,Marketed,1
+Non-Gavi,Innovator,MenAC-Hib,Marketed,2
+Non-Gavi,Innovator,MenAC Ps,Marketed,7
+Non-Gavi,Innovator,MenAC,Marketed,5
+Non-Gavi,Innovator,MenA Ps,Marketed,1
+Non-Gavi,Innovator,DTwP-HepB-Hib-IPV,Marketed,1
+Non-Gavi,Innovator,DTaP-IPV,Marketed,8
+Non-Gavi,Innovator,DTaP-Hib-IPV,Marketed,5
+Non-Gavi,Innovator,DTaP-HepB-IPV,Marketed,1
+Non-Gavi,Innovator,DTaP-HepB-Hib-IPV,Marketed,2
+Non-Gavi,Innovator,DTaP-HepB-Hib,Marketed,1
+Non-Gavi,Innovator,Varicella,Pre-Reg.,1
+Non-Gavi,Innovator,MenACYW-135 Ps,Pre-Reg.,1
+Non-Gavi,Innovator,MenACYW-135,Pre-Reg.,1
+Non-Gavi,Innovator,DTwP-HepB-Hib-IPV,Pre-Reg.,1
+Non-Gavi,Innovator,Varicella,Phase III,2
+Non-Gavi,Innovator,PPSV23,Phase III,1
+Non-Gavi,Innovator,Paratyphoid,Phase III,1
+Non-Gavi,Innovator,MMR,Phase III,1
+Non-Gavi,Innovator,MenACYW-135,Phase III,4
+Non-Gavi,Innovator,MenACWYX-135,Phase III,1
+Non-Gavi,Innovator,MenAC-Hib,Phase III,1
+Non-Gavi,Innovator,MenAC,Phase III,3
+Non-Gavi,Innovator,MenABCYW-135,Phase III,2
+Non-Gavi,Innovator,DTwP-Hib-IPV,Phase III,1
+Non-Gavi,Innovator,DTaP-Hib-IPV,Phase III,1
+Non-Gavi,Innovator,Paratyphoid,Phase II,1
+Non-Gavi,Innovator,MenAC,Phase II,1
+Non-Gavi,Innovator,DTwP-HepB-Hib-IPV,Phase II,1
+Non-Gavi,Innovator,PPSV23,Phase I,1
+Non-Gavi,Innovator,MMRV,Phase I,1
+Non-Gavi,Innovator,MenACYW-135,Phase I,1
+Non-Gavi,Innovator,DTwP-HepB-Hib-IPV,Phase I,1
+Non-Gavi,Innovator,Varicella,Preclinical,2
+Non-Gavi,Innovator,PPSV23,Preclinical,1
+Non-Gavi,Innovator,Paratyphoid,Preclinical,2
+Non-Gavi,Innovator,MMRV,Preclinical,1
+Non-Gavi,Innovator,MMR,Preclinical,1
+Non-Gavi,Innovator,MenCY Ps,Preclinical,1
+Non-Gavi,Innovator,MenC,Preclinical,1
+Non-Gavi,Innovator,MenB,Preclinical,5
+Non-Gavi,Innovator,MenACYW-135,Preclinical,1
+Non-Gavi,Innovator,MenABCYW-135,Preclinical,1
+Non-Gavi,Innovator,DTwP-HepB-Hib-MenC-IPV,Preclinical,1
+Non-Gavi,Innovator,DTwP-HepB-Hib-IPV,Preclinical,1
+Non-Gavi,Innovator,DTaP-IPV,Preclinical,2
+Non-Gavi,Innovator,DTaP-Hib-IPV,Preclinical,1
+Non-Gavi,Innovator,DTaP-HepB-Hib,Preclinical,2
+Non-Gavi,Tropical,Ebola,PQ'd,2
+Non-Gavi,Tropical,Dengue,PQ'd,1
+Non-Gavi,Tropical,Malaria,Marketed,1
+Non-Gavi,Tropical,HFRS,Marketed,3
+Non-Gavi,Tropical,Ebola,Marketed,2
+Non-Gavi,Tropical,CCHF,Marketed,1
+Non-Gavi,Tropical,Dengue,Pre-Reg.,1
+Non-Gavi,Tropical,Malaria,Phase III,1
+Non-Gavi,Tropical,Ebola,Phase III,1
+Non-Gavi,Tropical,Dengue,Phase III,2
+Non-Gavi,Tropical,Chikungunya,Phase III,3
+Non-Gavi,Tropical,Zika,Phase II,3
+Non-Gavi,Tropical,Schistosomiasis,Phase II,1
+Non-Gavi,Tropical,Malaria,Phase II,8
+Non-Gavi,Tropical,Leishmaniasis,Phase II,1
+Non-Gavi,Tropical,HFRS,Phase II,1
+Non-Gavi,Tropical,Dengue,Phase II,2
+Non-Gavi,Tropical,Chikungunya,Phase II,1
+Non-Gavi,Tropical,Zika,Phase I,7
+Non-Gavi,Tropical,Schistosomiasis,Phase I,1
+Non-Gavi,Tropical,Nipah,Phase I,2
+Non-Gavi,Tropical,Mosquito-borne diseases,Phase I,1
+Non-Gavi,Tropical,Malaria,Phase I,18
+Non-Gavi,Tropical,Leishmaniasis,Phase I,1
+Non-Gavi,Tropical,Lassa fever,Phase I,3
+Non-Gavi,Tropical,Ebola,Phase I,5
+Non-Gavi,Tropical,Dengue,Phase I,3
+Non-Gavi,Tropical,Chikungunya,Phase I,1
+Non-Gavi,Tropical,CCHF,Phase I,2
+Non-Gavi,Tropical,Zika,Preclinical,39
+Non-Gavi,Tropical,Schistosomiasis,Preclinical,2
+Non-Gavi,Tropical,Onchocerciasis,Preclinical,1
+Non-Gavi,Tropical,Nipah,Preclinical,3
+Non-Gavi,Tropical,Mosquito-borne diseases,Preclinical,1
+Non-Gavi,Tropical,Malaria,Preclinical,36
+Non-Gavi,Tropical,Leishmaniasis,Preclinical,7
+Non-Gavi,Tropical,Lassa fever,Preclinical,8
+Non-Gavi,Tropical,HFRS,Preclinical,1
+Non-Gavi,Tropical,Ebola,Preclinical,22
+Non-Gavi,Tropical,Dengue,Preclinical,18
+Non-Gavi,Tropical,Chikungunya,Preclinical,21
+Non-Gavi,Tropical,Chagas,Preclinical,4
+Non-Gavi,Tropical,CCHF,Preclinical,4
+Non-Gavi,Other,Seasonal Flu (Other),PQ'd,6
+Non-Gavi,Other,Seasonal Flu - TIV,PQ'd,9
+Non-Gavi,Other,Seasonal Flu - QIV,PQ'd,4
+Non-Gavi,Other,nOPV,WHO EUL,1
+Non-Gavi,Other,Smallpox,Marketed,1
+Non-Gavi,Other,Shingles,Marketed,3
+Non-Gavi,Other,Seasonal Flu (Other),Marketed,15
+Non-Gavi,Other,Seasonal Flu - TIV,Marketed,31
+Non-Gavi,Other,Seasonal Flu - QIV,Marketed,25
+Non-Gavi,Other,Novel TB,Marketed,1
+Non-Gavi,Other,Leptospirosis,Marketed,6
+Non-Gavi,Other,HepE,Marketed,1
+Non-Gavi,Other,HepA+B,Marketed,2
+Non-Gavi,Other,EV71,Marketed,3
+Non-Gavi,Other,Shingles,Phase III,1
+Non-Gavi,Other,Shigella,Phase III,1
+Non-Gavi,Other,Seasonal Flu - TIV,Phase III,3
+Non-Gavi,Other,Seasonal Flu - QIV,Phase III,8
+Non-Gavi,Other,RSV,Phase III,5
+Non-Gavi,Other,Novel TB,Phase III,1
+Non-Gavi,Other,HIV,Phase III,1
+Non-Gavi,Other,EV71,Phase III,1
+Non-Gavi,Other,ETEC,Phase III,1
+Non-Gavi,Other,Universal Flu,Phase II,2
+Non-Gavi,Other,Shigella,Phase II,2
+Non-Gavi,Other,Seasonal Flu (Other),Phase II,15
+Non-Gavi,Other,Seasonal Flu - TIV,Phase II,1
+Non-Gavi,Other,Seasonal Flu - QIV,Phase II,4
+Non-Gavi,Other,RSV,Phase II,3
+Non-Gavi,Other,Recombinant BCG,Phase II,1
+Non-Gavi,Other,Pandemic Flu H3N2,Phase II,2
+Non-Gavi,Other,Novel TB,Phase II,6
+Non-Gavi,Other,Novel Pertussis,Phase II,2
+Non-Gavi,Other,Norovirus,Phase II,1
+Non-Gavi,Other,MERS,Phase II,2
+Non-Gavi,Other,HIV,Phase II,1
+Non-Gavi,Other,GBS,Phase II,2
+Non-Gavi,Other,EV71,Phase II,1
+Non-Gavi,Other,ETEC,Phase II,1
+Non-Gavi,Other,Universal Flu,Phase I,1
+Non-Gavi,Other,Shingles,Phase I,3
+Non-Gavi,Other,Shigella,Phase I,1
+Non-Gavi,Other,Seasonal Flu (Other),Phase I,21
+Non-Gavi,Other,Seasonal Flu - QIV,Phase I,5
+Non-Gavi,Other,RSV,Phase I,7
+Non-Gavi,Other,Recombinant BCG,Phase I,2
+Non-Gavi,Other,Pandemic Flu H3N2,Phase I,1
+Non-Gavi,Other,Novel TB,Phase I,2
+Non-Gavi,Other,nOPV,Phase I,1
+Non-Gavi,Other,MERS,Phase I,3
+Non-Gavi,Other,HepE,Phase I,2
+Non-Gavi,Other,HepC,Phase I,1
+Non-Gavi,Other,GAS,Phase I,2
+Non-Gavi,Other,EV71,Phase I,4
+Non-Gavi,Other,ETEC,Phase I,1
+Non-Gavi,Other,Universal Flu,Preclinical,4
+Non-Gavi,Other,Shingles,Preclinical,8
+Non-Gavi,Other,Shigella,Preclinical,6
+Non-Gavi,Other,Seasonal Flu (Other),Preclinical,64
+Non-Gavi,Other,Seasonal Flu - TIV,Preclinical,1
+Non-Gavi,Other,Seasonal Flu - QIV,Preclinical,9
+Non-Gavi,Other,RSV,Preclinical,27
+Non-Gavi,Other,Recombinant BCG,Preclinical,4
+Non-Gavi,Other,Pandemic Flu H3N2,Preclinical,3
+Non-Gavi,Other,Novel TB,Preclinical,23
+Non-Gavi,Other,Novel Pertussis,Preclinical,3
+Non-Gavi,Other,nOPV,Preclinical,1
+Non-Gavi,Other,MERS,Preclinical,7
+Non-Gavi,Other,Leptospirosis,Preclinical,1
+Non-Gavi,Other,iNTS,Preclinical,1
+Non-Gavi,Other,HepC,Preclinical,10
+Non-Gavi,Other,GBS,Preclinical,5
+Non-Gavi,Other,GAS,Preclinical,3
+Non-Gavi,Other,EV71,Preclinical,3
+Non-Gavi,Other,ETEC,Preclinical,4
+Non-Gavi,Other,Cholera (non-oral),Preclinical,4
+Non-Gavi,Other,Adenovirus,Preclinical,1

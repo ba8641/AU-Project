@@ -1,0 +1,22 @@
+﻿Price Tier (group),Source,Vaccine  ,Avg. Price
+USA,CDC,Rota,78.403333333
+,UNICEF SD,Rota,1.7775
+High Income & Super HICs,V3P,Penta,4.449911678
+"China, Lower Middle Income, Upper Middle Income",V3P,Penta,1.331923787
+PAHO,V3P,Penta,1.106072066
+,UNICEF SD,Penta,0.93375
+USA,CDC,PCV,135.7
+High Income & Super HICs,V3P,PCV,44.070533004
+"China, Lower Middle Income, Upper Middle Income",V3P,PCV,21.925252033
+PAHO,V3P,PCV,15.463183466
+,UNICEF SD,PCV,7.255833333
+USA,CDC,IPV,13.4875
+High Income & Super HICs,V3P,IPV,12.583002395
+"China, Lower Middle Income, Upper Middle Income",V3P,IPV,4.081128388
+PAHO,V3P,IPV,3.278208079
+,UNICEF SD,IPV,3.061483333
+USA,CDC,HPV,174.375
+High Income & Super HICs,V3P,HPV,56.681989159
+"China, Lower Middle Income, Upper Middle Income",V3P,HPV,11.385398934
+PAHO,V3P,HPV,10.181534454
+,UNICEF SD,HPV,4.55

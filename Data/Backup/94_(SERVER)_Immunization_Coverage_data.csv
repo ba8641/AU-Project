@@ -1,0 +1,2836 @@
+﻿Country ,Coverage Type,Year,Avg. Coverage
+Afghanistan,MCV1,2020,66%
+Afghanistan,DTP3,2020,70%
+Afghanistan,DTP1,2020,78%
+Afghanistan,MCV1,2019,64%
+Afghanistan,DTP3,2019,72%
+Afghanistan,DTP1,2019,75%
+Afghanistan,MCV1,2018,71%
+Afghanistan,DTP3,2018,72%
+Afghanistan,DTP1,2018,81%
+Afghanistan,MCV1,2017,67%
+Afghanistan,DTP3,2017,66%
+Afghanistan,DTP1,2017,75%
+Afghanistan,MCV1,2016,64%
+Afghanistan,DTP3,2016,66%
+Afghanistan,DTP1,2016,73%
+Afghanistan,MCV1,2015,62%
+Afghanistan,DTP3,2015,64%
+Afghanistan,DTP1,2015,73%
+Afghanistan,MCV1,2014,60%
+Afghanistan,DTP3,2014,62%
+Afghanistan,DTP1,2014,73%
+Albania,MCV1,2020,96%
+Albania,DTP3,2020,99%
+Albania,DTP1,2020,99%
+Albania,MCV1,2019,95%
+Albania,DTP3,2019,99%
+Albania,DTP1,2019,99%
+Albania,MCV1,2018,94%
+Albania,DTP3,2018,99%
+Albania,DTP1,2018,99%
+Albania,MCV1,2017,96%
+Albania,DTP3,2017,99%
+Albania,DTP1,2017,99%
+Albania,MCV1,2016,96%
+Albania,DTP3,2016,98%
+Albania,DTP1,2016,99%
+Albania,MCV1,2015,97%
+Albania,DTP3,2015,99%
+Albania,DTP1,2015,99%
+Albania,MCV1,2014,98%
+Albania,DTP3,2014,98%
+Albania,DTP1,2014,99%
+Algeria,MCV1,2020,81%
+Algeria,DTP3,2020,92%
+Algeria,DTP1,2020,97%
+Algeria,MCV1,2019,80%
+Algeria,DTP3,2019,91%
+Algeria,DTP1,2019,96%
+Algeria,MCV1,2018,80%
+Algeria,DTP3,2018,91%
+Algeria,DTP1,2018,96%
+Algeria,MCV1,2017,88%
+Algeria,DTP3,2017,91%
+Algeria,DTP1,2017,95%
+Algeria,MCV1,2016,94%
+Algeria,DTP3,2016,91%
+Algeria,DTP1,2016,96%
+Algeria,MCV1,2015,95%
+Algeria,DTP3,2015,95%
+Algeria,DTP1,2015,99%
+Algeria,MCV1,2014,95%
+Algeria,DTP3,2014,95%
+Algeria,DTP1,2014,99%
+Angola,MCV1,2020,44%
+Angola,DTP3,2020,51%
+Angola,DTP1,2020,61%
+Angola,MCV1,2019,51%
+Angola,DTP3,2019,57%
+Angola,DTP1,2019,67%
+Angola,MCV1,2018,50%
+Angola,DTP3,2018,63%
+Angola,DTP1,2018,74%
+Angola,MCV1,2017,42%
+Angola,DTP3,2017,56%
+Angola,DTP1,2017,68%
+Angola,MCV1,2016,45%
+Angola,DTP3,2016,59%
+Angola,DTP1,2016,74%
+Angola,MCV1,2015,51%
+Angola,DTP3,2015,59%
+Angola,DTP1,2015,72%
+Angola,MCV1,2014,56%
+Angola,DTP3,2014,55%
+Angola,DTP1,2014,69%
+Argentina,MCV1,2020,77%
+Argentina,DTP3,2020,74%
+Argentina,DTP1,2020,79%
+Argentina,MCV1,2019,86%
+Argentina,DTP3,2019,83%
+Argentina,DTP1,2019,87%
+Argentina,MCV1,2018,94%
+Argentina,DTP3,2018,86%
+Argentina,DTP1,2018,91%
+Argentina,MCV1,2017,89%
+Argentina,DTP3,2017,86%
+Argentina,DTP1,2017,91%
+Argentina,MCV1,2016,90%
+Argentina,DTP3,2016,92%
+Argentina,DTP1,2016,93%
+Argentina,MCV1,2015,89%
+Argentina,DTP3,2015,94%
+Argentina,DTP1,2015,94%
+Argentina,MCV1,2014,95%
+Argentina,DTP3,2014,94%
+Argentina,DTP1,2014,98%
+Armenia,MCV1,2020,96%
+Armenia,DTP3,2020,93%
+Armenia,DTP1,2020,97%
+Armenia,MCV1,2019,95%
+Armenia,DTP3,2019,92%
+Armenia,DTP1,2019,96%
+Armenia,MCV1,2018,95%
+Armenia,DTP3,2018,92%
+Armenia,DTP1,2018,96%
+Armenia,MCV1,2017,96%
+Armenia,DTP3,2017,94%
+Armenia,DTP1,2017,97%
+Armenia,MCV1,2016,97%
+Armenia,DTP3,2016,94%
+Armenia,DTP1,2016,97%
+Armenia,MCV1,2015,97%
+Armenia,DTP3,2015,94%
+Armenia,DTP1,2015,97%
+Armenia,MCV1,2014,97%
+Armenia,DTP3,2014,93%
+Armenia,DTP1,2014,97%
+Azerbaijan,MCV1,2020,82%
+Azerbaijan,DTP3,2020,79%
+Azerbaijan,DTP1,2020,85%
+Azerbaijan,MCV1,2019,98%
+Azerbaijan,DTP3,2019,94%
+Azerbaijan,DTP1,2019,96%
+Azerbaijan,MCV1,2018,96%
+Azerbaijan,DTP3,2018,95%
+Azerbaijan,DTP1,2018,96%
+Azerbaijan,MCV1,2017,98%
+Azerbaijan,DTP3,2017,95%
+Azerbaijan,DTP1,2017,97%
+Azerbaijan,MCV1,2016,98%
+Azerbaijan,DTP3,2016,97%
+Azerbaijan,DTP1,2016,98%
+Azerbaijan,MCV1,2015,98%
+Azerbaijan,DTP3,2015,96%
+Azerbaijan,DTP1,2015,97%
+Azerbaijan,MCV1,2014,98%
+Azerbaijan,DTP3,2014,94%
+Azerbaijan,DTP1,2014,96%
+Bangladesh,MCV1,2020,97%
+Bangladesh,DTP3,2020,98%
+Bangladesh,DTP1,2020,99%
+Bangladesh,MCV1,2019,97%
+Bangladesh,DTP3,2019,98%
+Bangladesh,DTP1,2019,99%
+Bangladesh,MCV1,2018,97%
+Bangladesh,DTP3,2018,98%
+Bangladesh,DTP1,2018,99%
+Bangladesh,MCV1,2017,97%
+Bangladesh,DTP3,2017,98%
+Bangladesh,DTP1,2017,99%
+Bangladesh,MCV1,2016,97%
+Bangladesh,DTP3,2016,98%
+Bangladesh,DTP1,2016,99%
+Bangladesh,MCV1,2015,97%
+Bangladesh,DTP3,2015,98%
+Bangladesh,DTP1,2015,99%
+Bangladesh,MCV1,2014,94%
+Bangladesh,DTP3,2014,97%
+Bangladesh,DTP1,2014,99%
+Belarus,MCV1,2020,97%
+Belarus,DTP3,2020,97%
+Belarus,DTP1,2020,97%
+Belarus,MCV1,2019,98%
+Belarus,DTP3,2019,98%
+Belarus,DTP1,2019,98%
+Belarus,MCV1,2018,98%
+Belarus,DTP3,2018,97%
+Belarus,DTP1,2018,98%
+Belarus,MCV1,2017,97%
+Belarus,DTP3,2017,97%
+Belarus,DTP1,2017,97%
+Belarus,MCV1,2016,98%
+Belarus,DTP3,2016,98%
+Belarus,DTP1,2016,99%
+Belarus,MCV1,2015,99%
+Belarus,DTP3,2015,99%
+Belarus,DTP1,2015,99%
+Belarus,MCV1,2014,99%
+Belarus,DTP3,2014,97%
+Belarus,DTP1,2014,97%
+Belize,MCV1,2020,82%
+Belize,DTP3,2020,79%
+Belize,DTP1,2020,79%
+Belize,MCV1,2019,96%
+Belize,DTP3,2019,98%
+Belize,DTP1,2019,99%
+Belize,MCV1,2018,97%
+Belize,DTP3,2018,96%
+Belize,DTP1,2018,97%
+Belize,MCV1,2017,90%
+Belize,DTP3,2017,88%
+Belize,DTP1,2017,89%
+Belize,MCV1,2016,95%
+Belize,DTP3,2016,95%
+Belize,DTP1,2016,98%
+Belize,MCV1,2015,96%
+Belize,DTP3,2015,94%
+Belize,DTP1,2015,97%
+Belize,MCV1,2014,95%
+Belize,DTP3,2014,95%
+Belize,DTP1,2014,96%
+Benin,MCV1,2020,65%
+Benin,DTP3,2020,72%
+Benin,DTP1,2020,83%
+Benin,MCV1,2019,68%
+Benin,DTP3,2019,76%
+Benin,DTP1,2019,84%
+Benin,MCV1,2018,68%
+Benin,DTP3,2018,76%
+Benin,DTP1,2018,84%
+Benin,MCV1,2017,68%
+Benin,DTP3,2017,76%
+Benin,DTP1,2017,84%
+Benin,MCV1,2016,68%
+Benin,DTP3,2016,76%
+Benin,DTP1,2016,84%
+Benin,MCV1,2015,67%
+Benin,DTP3,2015,74%
+Benin,DTP1,2015,82%
+Benin,MCV1,2014,65%
+Benin,DTP3,2014,74%
+Benin,DTP1,2014,84%
+Bhutan,MCV1,2020,93%
+Bhutan,DTP3,2020,95%
+Bhutan,DTP1,2020,96%
+Bhutan,MCV1,2019,97%
+Bhutan,DTP3,2019,97%
+Bhutan,DTP1,2019,99%
+Bhutan,MCV1,2018,97%
+Bhutan,DTP3,2018,97%
+Bhutan,DTP1,2018,98%
+Bhutan,MCV1,2017,97%
+Bhutan,DTP3,2017,98%
+Bhutan,DTP1,2017,99%
+Bhutan,MCV1,2016,97%
+Bhutan,DTP3,2016,98%
+Bhutan,DTP1,2016,99%
+Bhutan,MCV1,2015,97%
+Bhutan,DTP3,2015,99%
+Bhutan,DTP1,2015,99%
+Bhutan,MCV1,2014,97%
+Bhutan,DTP3,2014,99%
+Bhutan,DTP1,2014,99%
+Bolivia,MCV1,2020,74%
+Bolivia,DTP3,2020,68%
+Bolivia,DTP1,2020,79%
+Bolivia,MCV1,2019,79%
+Bolivia,DTP3,2019,75%
+Bolivia,DTP1,2019,81%
+Bolivia,MCV1,2018,89%
+Bolivia,DTP3,2018,83%
+Bolivia,DTP1,2018,89%
+Bolivia,MCV1,2017,83%
+Bolivia,DTP3,2017,84%
+Bolivia,DTP1,2017,91%
+Bolivia,MCV1,2016,94%
+Bolivia,DTP3,2016,87%
+Bolivia,DTP1,2016,93%
+Bolivia,MCV1,2015,95%
+Bolivia,DTP3,2015,89%
+Bolivia,DTP1,2015,97%
+Bolivia,MCV1,2014,89%
+Bolivia,DTP3,2014,85%
+Bolivia,DTP1,2014,92%
+Bosnia,MCV1,2020,70%
+Bosnia,DTP3,2020,74%
+Bosnia,DTP1,2020,90%
+Bosnia,MCV1,2019,68%
+Bosnia,DTP3,2019,73%
+Bosnia,DTP1,2019,89%
+Bosnia,MCV1,2018,68%
+Bosnia,DTP3,2018,73%
+Bosnia,DTP1,2018,89%
+Bosnia,MCV1,2017,69%
+Bosnia,DTP3,2017,75%
+Bosnia,DTP1,2017,92%
+Bosnia,MCV1,2016,68%
+Bosnia,DTP3,2016,78%
+Bosnia,DTP1,2016,90%
+Bosnia,MCV1,2015,83%
+Bosnia,DTP3,2015,82%
+Bosnia,DTP1,2015,89%
+Bosnia,MCV1,2014,89%
+Bosnia,DTP3,2014,86%
+Bosnia,DTP1,2014,92%
+Botswana,MCV1,2020,87%
+Botswana,DTP3,2020,95%
+Botswana,DTP1,2020,98%
+Botswana,MCV1,2019,97%
+Botswana,DTP3,2019,95%
+Botswana,DTP1,2019,98%
+Botswana,MCV1,2018,97%
+Botswana,DTP3,2018,95%
+Botswana,DTP1,2018,98%
+Botswana,MCV1,2017,97%
+Botswana,DTP3,2017,95%
+Botswana,DTP1,2017,98%
+Botswana,MCV1,2016,97%
+Botswana,DTP3,2016,95%
+Botswana,DTP1,2016,98%
+Botswana,MCV1,2015,97%
+Botswana,DTP3,2015,95%
+Botswana,DTP1,2015,98%
+Botswana,MCV1,2014,97%
+Botswana,DTP3,2014,95%
+Botswana,DTP1,2014,98%
+Brazil,MCV1,2020,79%
+Brazil,DTP3,2020,77%
+Brazil,DTP1,2020,88%
+Brazil,MCV1,2019,91%
+Brazil,DTP3,2019,70%
+Brazil,DTP1,2019,79%
+Brazil,MCV1,2018,92%
+Brazil,DTP3,2018,87%
+Brazil,DTP1,2018,87%
+Brazil,MCV1,2017,91%
+Brazil,DTP3,2017,89%
+Brazil,DTP1,2017,99%
+Brazil,MCV1,2016,95%
+Brazil,DTP3,2016,89%
+Brazil,DTP1,2016,95%
+Brazil,MCV1,2015,96%
+Brazil,DTP3,2015,96%
+Brazil,DTP1,2015,97%
+Brazil,MCV1,2014,97%
+Brazil,DTP3,2014,93%
+Brazil,DTP1,2014,98%
+Bulgaria,MCV1,2020,88%
+Bulgaria,DTP3,2020,91%
+Bulgaria,DTP1,2020,94%
+Bulgaria,MCV1,2019,95%
+Bulgaria,DTP3,2019,93%
+Bulgaria,DTP1,2019,96%
+Bulgaria,MCV1,2018,93%
+Bulgaria,DTP3,2018,92%
+Bulgaria,DTP1,2018,94%
+Bulgaria,MCV1,2017,94%
+Bulgaria,DTP3,2017,92%
+Bulgaria,DTP1,2017,96%
+Bulgaria,MCV1,2016,92%
+Bulgaria,DTP3,2016,92%
+Bulgaria,DTP1,2016,94%
+Bulgaria,MCV1,2015,92%
+Bulgaria,DTP3,2015,91%
+Bulgaria,DTP1,2015,93%
+Bulgaria,MCV1,2014,93%
+Bulgaria,DTP3,2014,88%
+Bulgaria,DTP1,2014,90%
+Burkina Faso,MCV1,2020,88%
+Burkina Faso,DTP3,2020,91%
+Burkina Faso,DTP1,2020,95%
+Burkina Faso,MCV1,2019,88%
+Burkina Faso,DTP3,2019,91%
+Burkina Faso,DTP1,2019,95%
+Burkina Faso,MCV1,2018,88%
+Burkina Faso,DTP3,2018,91%
+Burkina Faso,DTP1,2018,95%
+Burkina Faso,MCV1,2017,88%
+Burkina Faso,DTP3,2017,91%
+Burkina Faso,DTP1,2017,95%
+Burkina Faso,MCV1,2016,88%
+Burkina Faso,DTP3,2016,91%
+Burkina Faso,DTP1,2016,95%
+Burkina Faso,MCV1,2015,88%
+Burkina Faso,DTP3,2015,91%
+Burkina Faso,DTP1,2015,95%
+Burkina Faso,MCV1,2014,88%
+Burkina Faso,DTP3,2014,91%
+Burkina Faso,DTP1,2014,95%
+Burundi,MCV1,2020,90%
+Burundi,DTP3,2020,93%
+Burundi,DTP1,2020,98%
+Burundi,MCV1,2019,92%
+Burundi,DTP3,2019,93%
+Burundi,DTP1,2019,97%
+Burundi,MCV1,2018,88%
+Burundi,DTP3,2018,90%
+Burundi,DTP1,2018,94%
+Burundi,MCV1,2017,90%
+Burundi,DTP3,2017,91%
+Burundi,DTP1,2017,94%
+Burundi,MCV1,2016,93%
+Burundi,DTP3,2016,94%
+Burundi,DTP1,2016,97%
+Burundi,MCV1,2015,93%
+Burundi,DTP3,2015,94%
+Burundi,DTP1,2015,97%
+Burundi,MCV1,2014,94%
+Burundi,DTP3,2014,95%
+Burundi,DTP1,2014,98%
+Cabo Verde,MCV1,2020,95%
+Cabo Verde,DTP3,2020,93%
+Cabo Verde,DTP1,2020,93%
+Cabo Verde,MCV1,2019,98%
+Cabo Verde,DTP3,2019,96%
+Cabo Verde,DTP1,2019,96%
+Cabo Verde,MCV1,2018,99%
+Cabo Verde,DTP3,2018,98%
+Cabo Verde,DTP1,2018,99%
+Cabo Verde,MCV1,2017,96%
+Cabo Verde,DTP3,2017,96%
+Cabo Verde,DTP1,2017,97%
+Cabo Verde,MCV1,2016,93%
+Cabo Verde,DTP3,2016,96%
+Cabo Verde,DTP1,2016,96%
+Cabo Verde,MCV1,2015,92%
+Cabo Verde,DTP3,2015,93%
+Cabo Verde,DTP1,2015,97%
+Cabo Verde,MCV1,2014,93%
+Cabo Verde,DTP3,2014,95%
+Cabo Verde,DTP1,2014,99%
+Cambodia,MCV1,2020,84%
+Cambodia,DTP3,2020,92%
+Cambodia,DTP1,2020,94%
+Cambodia,MCV1,2019,84%
+Cambodia,DTP3,2019,92%
+Cambodia,DTP1,2019,94%
+Cambodia,MCV1,2018,84%
+Cambodia,DTP3,2018,92%
+Cambodia,DTP1,2018,94%
+Cambodia,MCV1,2017,84%
+Cambodia,DTP3,2017,93%
+Cambodia,DTP1,2017,94%
+Cambodia,MCV1,2016,84%
+Cambodia,DTP3,2016,93%
+Cambodia,DTP1,2016,94%
+Cambodia,MCV1,2015,84%
+Cambodia,DTP3,2015,92%
+Cambodia,DTP1,2015,94%
+Cambodia,MCV1,2014,83%
+Cambodia,DTP3,2014,91%
+Cambodia,DTP1,2014,94%
+Cameroon,MCV1,2020,62%
+Cameroon,DTP3,2020,69%
+Cameroon,DTP1,2020,77%
+Cameroon,MCV1,2019,60%
+Cameroon,DTP3,2019,67%
+Cameroon,DTP1,2019,75%
+Cameroon,MCV1,2018,59%
+Cameroon,DTP3,2018,67%
+Cameroon,DTP1,2018,76%
+Cameroon,MCV1,2017,65%
+Cameroon,DTP3,2017,74%
+Cameroon,DTP1,2017,83%
+Cameroon,MCV1,2016,71%
+Cameroon,DTP3,2016,75%
+Cameroon,DTP1,2016,83%
+Cameroon,MCV1,2015,74%
+Cameroon,DTP3,2015,78%
+Cameroon,DTP1,2015,86%
+Cameroon,MCV1,2014,78%
+Cameroon,DTP3,2014,83%
+Cameroon,DTP1,2014,90%
+CAR,MCV1,2020,41%
+CAR,DTP3,2020,42%
+CAR,DTP1,2020,54%
+CAR,MCV1,2019,41%
+CAR,DTP3,2019,42%
+CAR,DTP1,2019,54%
+CAR,MCV1,2018,41%
+CAR,DTP3,2018,42%
+CAR,DTP1,2018,54%
+CAR,MCV1,2017,41%
+CAR,DTP3,2017,42%
+CAR,DTP1,2017,54%
+CAR,MCV1,2016,45%
+CAR,DTP3,2016,42%
+CAR,DTP1,2016,54%
+CAR,MCV1,2015,46%
+CAR,DTP3,2015,43%
+CAR,DTP1,2015,57%
+CAR,MCV1,2014,47%
+CAR,DTP3,2014,45%
+CAR,DTP1,2014,60%
+Chad,MCV1,2020,47%
+Chad,DTP3,2020,52%
+Chad,DTP1,2020,69%
+Chad,MCV1,2019,41%
+Chad,DTP3,2019,50%
+Chad,DTP1,2019,65%
+Chad,MCV1,2018,42%
+Chad,DTP3,2018,46%
+Chad,DTP1,2018,61%
+Chad,MCV1,2017,37%
+Chad,DTP3,2017,41%
+Chad,DTP1,2017,55%
+Chad,MCV1,2016,37%
+Chad,DTP3,2016,41%
+Chad,DTP1,2016,55%
+Chad,MCV1,2015,46%
+Chad,DTP3,2015,42%
+Chad,DTP1,2015,59%
+Chad,MCV1,2014,45%
+Chad,DTP3,2014,36%
+Chad,DTP1,2014,63%
+China,MCV1,2020,99%
+China,DTP3,2020,99%
+China,DTP1,2020,99%
+China,MCV1,2019,99%
+China,DTP3,2019,99%
+China,DTP1,2019,99%
+China,MCV1,2018,99%
+China,DTP3,2018,99%
+China,DTP1,2018,99%
+China,MCV1,2017,99%
+China,DTP3,2017,99%
+China,DTP1,2017,99%
+China,MCV1,2016,99%
+China,DTP3,2016,99%
+China,DTP1,2016,99%
+China,MCV1,2015,99%
+China,DTP3,2015,99%
+China,DTP1,2015,99%
+China,MCV1,2014,99%
+China,DTP3,2014,99%
+China,DTP1,2014,99%
+Colombia,MCV1,2020,90%
+Colombia,DTP3,2020,88%
+Colombia,DTP1,2020,92%
+Colombia,MCV1,2019,95%
+Colombia,DTP3,2019,94%
+Colombia,DTP1,2019,95%
+Colombia,MCV1,2018,95%
+Colombia,DTP3,2018,92%
+Colombia,DTP1,2018,92%
+Colombia,MCV1,2017,93%
+Colombia,DTP3,2017,92%
+Colombia,DTP1,2017,94%
+Colombia,MCV1,2016,93%
+Colombia,DTP3,2016,91%
+Colombia,DTP1,2016,93%
+Colombia,MCV1,2015,94%
+Colombia,DTP3,2015,91%
+Colombia,DTP1,2015,93%
+Colombia,MCV1,2014,91%
+Colombia,DTP3,2014,90%
+Colombia,DTP1,2014,91%
+Comoros,MCV1,2020,89%
+Comoros,DTP3,2020,87%
+Comoros,DTP1,2020,93%
+Comoros,MCV1,2019,90%
+Comoros,DTP3,2019,91%
+Comoros,DTP1,2019,96%
+Comoros,MCV1,2018,90%
+Comoros,DTP3,2018,91%
+Comoros,DTP1,2018,96%
+Comoros,MCV1,2017,90%
+Comoros,DTP3,2017,91%
+Comoros,DTP1,2017,96%
+Comoros,MCV1,2016,90%
+Comoros,DTP3,2016,91%
+Comoros,DTP1,2016,96%
+Comoros,MCV1,2015,90%
+Comoros,DTP3,2015,91%
+Comoros,DTP1,2015,96%
+Comoros,MCV1,2014,86%
+Comoros,DTP3,2014,87%
+Comoros,DTP1,2014,93%
+Congo,MCV1,2020,68%
+Congo,DTP3,2020,73%
+Congo,DTP1,2020,77%
+Congo,MCV1,2019,73%
+Congo,DTP3,2019,79%
+Congo,DTP1,2019,82%
+Congo,MCV1,2018,75%
+Congo,DTP3,2018,75%
+Congo,DTP1,2018,79%
+Congo,MCV1,2017,70%
+Congo,DTP3,2017,69%
+Congo,DTP1,2017,75%
+Congo,MCV1,2016,67%
+Congo,DTP3,2016,71%
+Congo,DTP1,2016,76%
+Congo,MCV1,2015,80%
+Congo,DTP3,2015,80%
+Congo,DTP1,2015,85%
+Congo,MCV1,2014,80%
+Congo,DTP3,2014,90%
+Congo,DTP1,2014,95%
+Costa Rica,MCV1,2020,95%
+Costa Rica,DTP3,2020,95%
+Costa Rica,DTP1,2020,96%
+Costa Rica,MCV1,2019,95%
+Costa Rica,DTP3,2019,95%
+Costa Rica,DTP1,2019,96%
+Costa Rica,MCV1,2018,94%
+Costa Rica,DTP3,2018,94%
+Costa Rica,DTP1,2018,95%
+Costa Rica,MCV1,2017,96%
+Costa Rica,DTP3,2017,96%
+Costa Rica,DTP1,2017,99%
+Costa Rica,MCV1,2016,93%
+Costa Rica,DTP3,2016,97%
+Costa Rica,DTP1,2016,99%
+Costa Rica,MCV1,2015,93%
+Costa Rica,DTP3,2015,92%
+Costa Rica,DTP1,2015,93%
+Costa Rica,MCV1,2014,95%
+Costa Rica,DTP3,2014,91%
+Costa Rica,DTP1,2014,91%
+Côte d’Ivoire,MCV1,2020,70%
+Côte d’Ivoire,DTP3,2020,80%
+Côte d’Ivoire,DTP1,2020,93%
+Côte d’Ivoire,MCV1,2019,76%
+Côte d’Ivoire,DTP3,2019,84%
+Côte d’Ivoire,DTP1,2019,98%
+Côte d’Ivoire,MCV1,2018,76%
+Côte d’Ivoire,DTP3,2018,86%
+Côte d’Ivoire,DTP1,2018,98%
+Côte d’Ivoire,MCV1,2017,70%
+Côte d’Ivoire,DTP3,2017,83%
+Côte d’Ivoire,DTP1,2017,93%
+Côte d’Ivoire,MCV1,2016,73%
+Côte d’Ivoire,DTP3,2016,87%
+Côte d’Ivoire,DTP1,2016,98%
+Côte d’Ivoire,MCV1,2015,67%
+Côte d’Ivoire,DTP3,2015,79%
+Côte d’Ivoire,DTP1,2015,96%
+Côte d’Ivoire,MCV1,2014,59%
+Côte d’Ivoire,DTP3,2014,73%
+Côte d’Ivoire,DTP1,2014,92%
+Cuba,MCV1,2020,98%
+Cuba,DTP3,2020,99%
+Cuba,DTP1,2020,99%
+Cuba,MCV1,2019,99%
+Cuba,DTP3,2019,99%
+Cuba,DTP1,2019,99%
+Cuba,MCV1,2018,99%
+Cuba,DTP3,2018,99%
+Cuba,DTP1,2018,99%
+Cuba,MCV1,2017,99%
+Cuba,DTP3,2017,99%
+Cuba,DTP1,2017,99%
+Cuba,MCV1,2016,99%
+Cuba,DTP3,2016,99%
+Cuba,DTP1,2016,99%
+Cuba,MCV1,2015,99%
+Cuba,DTP3,2015,99%
+Cuba,DTP1,2015,99%
+Cuba,MCV1,2014,99%
+Cuba,DTP3,2014,99%
+Cuba,DTP1,2014,99%
+Djibouti,MCV1,2020,62%
+Djibouti,DTP3,2020,70%
+Djibouti,DTP1,2020,76%
+Djibouti,MCV1,2019,83%
+Djibouti,DTP3,2019,85%
+Djibouti,DTP1,2019,90%
+Djibouti,MCV1,2018,86%
+Djibouti,DTP3,2018,84%
+Djibouti,DTP1,2018,91%
+Djibouti,MCV1,2017,81%
+Djibouti,DTP3,2017,76%
+Djibouti,DTP1,2017,83%
+Djibouti,MCV1,2016,75%
+Djibouti,DTP3,2016,68%
+Djibouti,DTP1,2016,74%
+Djibouti,MCV1,2015,74%
+Djibouti,DTP3,2015,84%
+Djibouti,DTP1,2015,90%
+Djibouti,MCV1,2014,71%
+Djibouti,DTP3,2014,78%
+Djibouti,DTP1,2014,93%
+Dominica,MCV1,2020,92%
+Dominica,DTP3,2020,97%
+Dominica,DTP1,2020,99%
+Dominica,MCV1,2019,92%
+Dominica,DTP3,2019,99%
+Dominica,DTP1,2019,99%
+Dominica,MCV1,2018,84%
+Dominica,DTP3,2018,94%
+Dominica,DTP1,2018,99%
+Dominica,MCV1,2017,77%
+Dominica,DTP3,2017,91%
+Dominica,DTP1,2017,98%
+Dominica,MCV1,2016,96%
+Dominica,DTP3,2016,99%
+Dominica,DTP1,2016,99%
+Dominica,MCV1,2015,96%
+Dominica,DTP3,2015,98%
+Dominica,DTP1,2015,99%
+Dominica,MCV1,2014,94%
+Dominica,DTP3,2014,97%
+Dominica,DTP1,2014,99%
+Dominican Rep.,MCV1,2020,82%
+Dominican Rep.,DTP3,2020,82%
+Dominican Rep.,DTP1,2020,86%
+Dominican Rep.,MCV1,2019,96%
+Dominican Rep.,DTP3,2019,89%
+Dominican Rep.,DTP1,2019,96%
+Dominican Rep.,MCV1,2018,95%
+Dominican Rep.,DTP3,2018,94%
+Dominican Rep.,DTP1,2018,98%
+Dominican Rep.,MCV1,2017,86%
+Dominican Rep.,DTP3,2017,84%
+Dominican Rep.,DTP1,2017,99%
+Dominican Rep.,MCV1,2016,85%
+Dominican Rep.,DTP3,2016,87%
+Dominican Rep.,DTP1,2016,98%
+Dominican Rep.,MCV1,2015,90%
+Dominican Rep.,DTP3,2015,85%
+Dominican Rep.,DTP1,2015,99%
+Dominican Rep.,MCV1,2014,88%
+Dominican Rep.,DTP3,2014,91%
+Dominican Rep.,DTP1,2014,95%
+DRC,MCV1,2020,57%
+DRC,DTP3,2020,57%
+DRC,DTP1,2020,66%
+DRC,MCV1,2019,57%
+DRC,DTP3,2019,57%
+DRC,DTP1,2019,66%
+DRC,MCV1,2018,57%
+DRC,DTP3,2018,57%
+DRC,DTP1,2018,66%
+DRC,MCV1,2017,57%
+DRC,DTP3,2017,57%
+DRC,DTP1,2017,66%
+DRC,MCV1,2016,57%
+DRC,DTP3,2016,57%
+DRC,DTP1,2016,66%
+DRC,MCV1,2015,64%
+DRC,DTP3,2015,63%
+DRC,DTP1,2015,67%
+DRC,MCV1,2014,67%
+DRC,DTP3,2014,68%
+DRC,DTP1,2014,71%
+Ecuador,MCV1,2020,81%
+Ecuador,DTP3,2020,70%
+Ecuador,DTP1,2020,74%
+Ecuador,MCV1,2019,83%
+Ecuador,DTP3,2019,85%
+Ecuador,DTP1,2019,85%
+Ecuador,MCV1,2018,83%
+Ecuador,DTP3,2018,85%
+Ecuador,DTP1,2018,86%
+Ecuador,MCV1,2017,81%
+Ecuador,DTP3,2017,85%
+Ecuador,DTP1,2017,95%
+Ecuador,MCV1,2016,86%
+Ecuador,DTP3,2016,83%
+Ecuador,DTP1,2016,94%
+Ecuador,MCV1,2015,84%
+Ecuador,DTP3,2015,78%
+Ecuador,DTP1,2015,80%
+Ecuador,MCV1,2014,85%
+Ecuador,DTP3,2014,83%
+Ecuador,DTP1,2014,84%
+Egypt,MCV1,2020,94%
+Egypt,DTP3,2020,94%
+Egypt,DTP1,2020,95%
+Egypt,MCV1,2019,95%
+Egypt,DTP3,2019,95%
+Egypt,DTP1,2019,96%
+Egypt,MCV1,2018,94%
+Egypt,DTP3,2018,95%
+Egypt,DTP1,2018,96%
+Egypt,MCV1,2017,94%
+Egypt,DTP3,2017,94%
+Egypt,DTP1,2017,95%
+Egypt,MCV1,2016,95%
+Egypt,DTP3,2016,95%
+Egypt,DTP1,2016,96%
+Egypt,MCV1,2015,92%
+Egypt,DTP3,2015,93%
+Egypt,DTP1,2015,94%
+Egypt,MCV1,2014,93%
+Egypt,DTP3,2014,94%
+Egypt,DTP1,2014,96%
+El Salvador,MCV1,2020,71%
+El Salvador,DTP3,2020,72%
+El Salvador,DTP1,2020,79%
+El Salvador,MCV1,2019,82%
+El Salvador,DTP3,2019,81%
+El Salvador,DTP1,2019,82%
+El Salvador,MCV1,2018,81%
+El Salvador,DTP3,2018,81%
+El Salvador,DTP1,2018,82%
+El Salvador,MCV1,2017,85%
+El Salvador,DTP3,2017,85%
+El Salvador,DTP1,2017,83%
+El Salvador,MCV1,2016,90%
+El Salvador,DTP3,2016,93%
+El Salvador,DTP1,2016,91%
+El Salvador,MCV1,2015,95%
+El Salvador,DTP3,2015,91%
+El Salvador,DTP1,2015,93%
+El Salvador,MCV1,2014,95%
+El Salvador,DTP3,2014,94%
+El Salvador,DTP1,2014,96%
+Equatorial Guinea,MCV1,2020,53%
+Equatorial Guinea,DTP3,2020,53%
+Equatorial Guinea,DTP1,2020,77%
+Equatorial Guinea,MCV1,2019,53%
+Equatorial Guinea,DTP3,2019,53%
+Equatorial Guinea,DTP1,2019,77%
+Equatorial Guinea,MCV1,2018,53%
+Equatorial Guinea,DTP3,2018,53%
+Equatorial Guinea,DTP1,2018,77%
+Equatorial Guinea,MCV1,2017,53%
+Equatorial Guinea,DTP3,2017,53%
+Equatorial Guinea,DTP1,2017,77%
+Equatorial Guinea,MCV1,2016,53%
+Equatorial Guinea,DTP3,2016,53%
+Equatorial Guinea,DTP1,2016,77%
+Equatorial Guinea,MCV1,2015,50%
+Equatorial Guinea,DTP3,2015,40%
+Equatorial Guinea,DTP1,2015,64%
+Equatorial Guinea,MCV1,2014,53%
+Equatorial Guinea,DTP3,2014,53%
+Equatorial Guinea,DTP1,2014,77%
+Eritrea,MCV1,2020,93%
+Eritrea,DTP3,2020,95%
+Eritrea,DTP1,2020,97%
+Eritrea,MCV1,2019,93%
+Eritrea,DTP3,2019,95%
+Eritrea,DTP1,2019,97%
+Eritrea,MCV1,2018,93%
+Eritrea,DTP3,2018,95%
+Eritrea,DTP1,2018,97%
+Eritrea,MCV1,2017,93%
+Eritrea,DTP3,2017,95%
+Eritrea,DTP1,2017,97%
+Eritrea,MCV1,2016,99%
+Eritrea,DTP3,2016,95%
+Eritrea,DTP1,2016,97%
+Eritrea,MCV1,2015,97%
+Eritrea,DTP3,2015,95%
+Eritrea,DTP1,2015,98%
+Eritrea,MCV1,2014,90%
+Eritrea,DTP3,2014,94%
+Eritrea,DTP1,2014,97%
+Eswatini,MCV1,2020,76%
+Eswatini,DTP3,2020,83%
+Eswatini,DTP1,2020,87%
+Eswatini,MCV1,2019,81%
+Eswatini,DTP3,2019,90%
+Eswatini,DTP1,2019,96%
+Eswatini,MCV1,2018,85%
+Eswatini,DTP3,2018,90%
+Eswatini,DTP1,2018,96%
+Eswatini,MCV1,2017,89%
+Eswatini,DTP3,2017,90%
+Eswatini,DTP1,2017,96%
+Eswatini,MCV1,2016,89%
+Eswatini,DTP3,2016,90%
+Eswatini,DTP1,2016,96%
+Eswatini,MCV1,2015,89%
+Eswatini,DTP3,2015,90%
+Eswatini,DTP1,2015,96%
+Eswatini,MCV1,2014,97%
+Eswatini,DTP3,2014,98%
+Eswatini,DTP1,2014,99%
+Ethiopia,MCV1,2020,60%
+Ethiopia,DTP3,2020,71%
+Ethiopia,DTP1,2020,76%
+Ethiopia,MCV1,2019,58%
+Ethiopia,DTP3,2019,68%
+Ethiopia,DTP1,2019,76%
+Ethiopia,MCV1,2018,55%
+Ethiopia,DTP3,2018,67%
+Ethiopia,DTP1,2018,77%
+Ethiopia,MCV1,2017,59%
+Ethiopia,DTP3,2017,68%
+Ethiopia,DTP1,2017,76%
+Ethiopia,MCV1,2016,57%
+Ethiopia,DTP3,2016,66%
+Ethiopia,DTP1,2016,75%
+Ethiopia,MCV1,2015,56%
+Ethiopia,DTP3,2015,63%
+Ethiopia,DTP1,2015,74%
+Ethiopia,MCV1,2014,54%
+Ethiopia,DTP3,2014,61%
+Ethiopia,DTP1,2014,73%
+Fiji,MCV1,2020,96%
+Fiji,DTP3,2020,99%
+Fiji,DTP1,2020,99%
+Fiji,MCV1,2019,96%
+Fiji,DTP3,2019,99%
+Fiji,DTP1,2019,99%
+Fiji,MCV1,2018,96%
+Fiji,DTP3,2018,99%
+Fiji,DTP1,2018,99%
+Fiji,MCV1,2017,96%
+Fiji,DTP3,2017,99%
+Fiji,DTP1,2017,99%
+Fiji,MCV1,2016,96%
+Fiji,DTP3,2016,99%
+Fiji,DTP1,2016,99%
+Fiji,MCV1,2015,96%
+Fiji,DTP3,2015,99%
+Fiji,DTP1,2015,99%
+Fiji,MCV1,2014,96%
+Fiji,DTP3,2014,99%
+Fiji,DTP1,2014,99%
+Gabon,MCV1,2020,53%
+Gabon,DTP3,2020,63%
+Gabon,DTP1,2020,69%
+Gabon,MCV1,2019,62%
+Gabon,DTP3,2019,70%
+Gabon,DTP1,2019,77%
+Gabon,MCV1,2018,59%
+Gabon,DTP3,2018,70%
+Gabon,DTP1,2018,78%
+Gabon,MCV1,2017,63%
+Gabon,DTP3,2017,75%
+Gabon,DTP1,2017,81%
+Gabon,MCV1,2016,64%
+Gabon,DTP3,2016,75%
+Gabon,DTP1,2016,83%
+Gabon,MCV1,2015,68%
+Gabon,DTP3,2015,80%
+Gabon,DTP1,2015,87%
+Gabon,MCV1,2014,61%
+Gabon,DTP3,2014,70%
+Gabon,DTP1,2014,77%
+Gambia,MCV1,2020,86%
+Gambia,DTP3,2020,89%
+Gambia,DTP1,2020,94%
+Gambia,MCV1,2019,85%
+Gambia,DTP3,2019,88%
+Gambia,DTP1,2019,93%
+Gambia,MCV1,2018,91%
+Gambia,DTP3,2018,93%
+Gambia,DTP1,2018,94%
+Gambia,MCV1,2017,90%
+Gambia,DTP3,2017,92%
+Gambia,DTP1,2017,93%
+Gambia,MCV1,2016,97%
+Gambia,DTP3,2016,95%
+Gambia,DTP1,2016,99%
+Gambia,MCV1,2015,97%
+Gambia,DTP3,2015,97%
+Gambia,DTP1,2015,99%
+Gambia,MCV1,2014,96%
+Gambia,DTP3,2014,96%
+Gambia,DTP1,2014,98%
+Georgia,MCV1,2020,91%
+Georgia,DTP3,2020,88%
+Georgia,DTP1,2020,95%
+Georgia,MCV1,2019,99%
+Georgia,DTP3,2019,94%
+Georgia,DTP1,2019,99%
+Georgia,MCV1,2018,98%
+Georgia,DTP3,2018,93%
+Georgia,DTP1,2018,99%
+Georgia,MCV1,2017,95%
+Georgia,DTP3,2017,91%
+Georgia,DTP1,2017,98%
+Georgia,MCV1,2016,93%
+Georgia,DTP3,2016,92%
+Georgia,DTP1,2016,97%
+Georgia,MCV1,2015,96%
+Georgia,DTP3,2015,94%
+Georgia,DTP1,2015,97%
+Georgia,MCV1,2014,92%
+Georgia,DTP3,2014,91%
+Georgia,DTP1,2014,99%
+Ghana,MCV1,2020,88%
+Ghana,DTP3,2020,94%
+Ghana,DTP1,2020,94%
+Ghana,MCV1,2019,92%
+Ghana,DTP3,2019,97%
+Ghana,DTP1,2019,97%
+Ghana,MCV1,2018,92%
+Ghana,DTP3,2018,97%
+Ghana,DTP1,2018,97%
+Ghana,MCV1,2017,95%
+Ghana,DTP3,2017,99%
+Ghana,DTP1,2017,99%
+Ghana,MCV1,2016,89%
+Ghana,DTP3,2016,93%
+Ghana,DTP1,2016,94%
+Ghana,MCV1,2015,89%
+Ghana,DTP3,2015,88%
+Ghana,DTP1,2015,97%
+Ghana,MCV1,2014,92%
+Ghana,DTP3,2014,98%
+Ghana,DTP1,2014,99%
+Grenada,MCV1,2020,83%
+Grenada,DTP3,2020,72%
+Grenada,DTP1,2020,79%
+Grenada,MCV1,2019,94%
+Grenada,DTP3,2019,92%
+Grenada,DTP1,2019,97%
+Grenada,MCV1,2018,84%
+Grenada,DTP3,2018,95%
+Grenada,DTP1,2018,96%
+Grenada,MCV1,2017,85%
+Grenada,DTP3,2017,96%
+Grenada,DTP1,2017,98%
+Grenada,MCV1,2016,95%
+Grenada,DTP3,2016,96%
+Grenada,DTP1,2016,98%
+Grenada,MCV1,2015,99%
+Grenada,DTP3,2015,92%
+Grenada,DTP1,2015,94%
+Grenada,MCV1,2014,94%
+Grenada,DTP3,2014,97%
+Grenada,DTP1,2014,97%
+Guatemala,MCV1,2020,88%
+Guatemala,DTP3,2020,83%
+Guatemala,DTP1,2020,92%
+Guatemala,MCV1,2019,90%
+Guatemala,DTP3,2019,85%
+Guatemala,DTP1,2019,92%
+Guatemala,MCV1,2018,87%
+Guatemala,DTP3,2018,86%
+Guatemala,DTP1,2018,94%
+Guatemala,MCV1,2017,86%
+Guatemala,DTP3,2017,82%
+Guatemala,DTP1,2017,88%
+Guatemala,MCV1,2016,86%
+Guatemala,DTP3,2016,80%
+Guatemala,DTP1,2016,96%
+Guatemala,MCV1,2015,77%
+Guatemala,DTP3,2015,74%
+Guatemala,DTP1,2015,99%
+Guatemala,MCV1,2014,67%
+Guatemala,DTP3,2014,73%
+Guatemala,DTP1,2014,89%
+Guinea,MCV1,2020,47%
+Guinea,DTP3,2020,47%
+Guinea,DTP1,2020,62%
+Guinea,MCV1,2019,47%
+Guinea,DTP3,2019,47%
+Guinea,DTP1,2019,62%
+Guinea,MCV1,2018,47%
+Guinea,DTP3,2018,47%
+Guinea,DTP1,2018,62%
+Guinea,MCV1,2017,47%
+Guinea,DTP3,2017,47%
+Guinea,DTP1,2017,62%
+Guinea,MCV1,2016,47%
+Guinea,DTP3,2016,47%
+Guinea,DTP1,2016,62%
+Guinea,MCV1,2015,47%
+Guinea,DTP3,2015,47%
+Guinea,DTP1,2015,64%
+Guinea,MCV1,2014,50%
+Guinea,DTP3,2014,44%
+Guinea,DTP1,2014,58%
+Guinea-Bissau,MCV1,2020,80%
+Guinea-Bissau,DTP3,2020,79%
+Guinea-Bissau,DTP1,2020,87%
+Guinea-Bissau,MCV1,2019,79%
+Guinea-Bissau,DTP3,2019,78%
+Guinea-Bissau,DTP1,2019,86%
+Guinea-Bissau,MCV1,2018,79%
+Guinea-Bissau,DTP3,2018,82%
+Guinea-Bissau,DTP1,2018,92%
+Guinea-Bissau,MCV1,2017,66%
+Guinea-Bissau,DTP3,2017,79%
+Guinea-Bissau,DTP1,2017,91%
+Guinea-Bissau,MCV1,2016,80%
+Guinea-Bissau,DTP3,2016,85%
+Guinea-Bissau,DTP1,2016,90%
+Guinea-Bissau,MCV1,2015,80%
+Guinea-Bissau,DTP3,2015,86%
+Guinea-Bissau,DTP1,2015,91%
+Guinea-Bissau,MCV1,2014,81%
+Guinea-Bissau,DTP3,2014,86%
+Guinea-Bissau,DTP1,2014,92%
+Guyana,MCV1,2020,98%
+Guyana,DTP3,2020,99%
+Guyana,DTP1,2020,99%
+Guyana,MCV1,2019,98%
+Guyana,DTP3,2019,99%
+Guyana,DTP1,2019,99%
+Guyana,MCV1,2018,98%
+Guyana,DTP3,2018,95%
+Guyana,DTP1,2018,99%
+Guyana,MCV1,2017,99%
+Guyana,DTP3,2017,97%
+Guyana,DTP1,2017,97%
+Guyana,MCV1,2016,99%
+Guyana,DTP3,2016,97%
+Guyana,DTP1,2016,97%
+Guyana,MCV1,2015,99%
+Guyana,DTP3,2015,95%
+Guyana,DTP1,2015,96%
+Guyana,MCV1,2014,99%
+Guyana,DTP3,2014,98%
+Guyana,DTP1,2014,99%
+Haiti,MCV1,2020,65%
+Haiti,DTP3,2020,51%
+Haiti,DTP1,2020,75%
+Haiti,MCV1,2019,65%
+Haiti,DTP3,2019,51%
+Haiti,DTP1,2019,75%
+Haiti,MCV1,2018,69%
+Haiti,DTP3,2018,64%
+Haiti,DTP1,2018,84%
+Haiti,MCV1,2017,69%
+Haiti,DTP3,2017,64%
+Haiti,DTP1,2017,84%
+Haiti,MCV1,2016,69%
+Haiti,DTP3,2016,64%
+Haiti,DTP1,2016,84%
+Haiti,MCV1,2015,69%
+Haiti,DTP3,2015,64%
+Haiti,DTP1,2015,84%
+Haiti,MCV1,2014,69%
+Haiti,DTP3,2014,63%
+Haiti,DTP1,2014,79%
+Honduras,MCV1,2020,82%
+Honduras,DTP3,2020,80%
+Honduras,DTP1,2020,85%
+Honduras,MCV1,2019,89%
+Honduras,DTP3,2019,88%
+Honduras,DTP1,2019,89%
+Honduras,MCV1,2018,91%
+Honduras,DTP3,2018,91%
+Honduras,DTP1,2018,93%
+Honduras,MCV1,2017,98%
+Honduras,DTP3,2017,90%
+Honduras,DTP1,2017,92%
+Honduras,MCV1,2016,98%
+Honduras,DTP3,2016,95%
+Honduras,DTP1,2016,98%
+Honduras,MCV1,2015,98%
+Honduras,DTP3,2015,98%
+Honduras,DTP1,2015,99%
+Honduras,MCV1,2014,97%
+Honduras,DTP3,2014,99%
+Honduras,DTP1,2014,99%
+India,MCV1,2020,89%
+India,DTP3,2020,85%
+India,DTP1,2020,87%
+India,MCV1,2019,95%
+India,DTP3,2019,91%
+India,DTP1,2019,94%
+India,MCV1,2018,93%
+India,DTP3,2018,90%
+India,DTP1,2018,93%
+India,MCV1,2017,90%
+India,DTP3,2017,89%
+India,DTP1,2017,92%
+India,MCV1,2016,88%
+India,DTP3,2016,88%
+India,DTP1,2016,91%
+India,MCV1,2015,87%
+India,DTP3,2015,87%
+India,DTP1,2015,90%
+India,MCV1,2014,85%
+India,DTP3,2014,85%
+India,DTP1,2014,90%
+Indonesia,MCV1,2020,76%
+Indonesia,DTP3,2020,77%
+Indonesia,DTP1,2020,83%
+Indonesia,MCV1,2019,88%
+Indonesia,DTP3,2019,85%
+Indonesia,DTP1,2019,90%
+Indonesia,MCV1,2018,89%
+Indonesia,DTP3,2018,85%
+Indonesia,DTP1,2018,90%
+Indonesia,MCV1,2017,90%
+Indonesia,DTP3,2017,85%
+Indonesia,DTP1,2017,90%
+Indonesia,MCV1,2016,88%
+Indonesia,DTP3,2016,84%
+Indonesia,DTP1,2016,90%
+Indonesia,MCV1,2015,87%
+Indonesia,DTP3,2015,84%
+Indonesia,DTP1,2015,90%
+Indonesia,MCV1,2014,86%
+Indonesia,DTP3,2014,88%
+Indonesia,DTP1,2014,93%
+Iran,MCV1,2020,99%
+Iran,DTP3,2020,99%
+Iran,DTP1,2020,99%
+Iran,MCV1,2019,99%
+Iran,DTP3,2019,99%
+Iran,DTP1,2019,99%
+Iran,MCV1,2018,99%
+Iran,DTP3,2018,99%
+Iran,DTP1,2018,99%
+Iran,MCV1,2017,99%
+Iran,DTP3,2017,99%
+Iran,DTP1,2017,99%
+Iran,MCV1,2016,99%
+Iran,DTP3,2016,99%
+Iran,DTP1,2016,99%
+Iran,MCV1,2015,99%
+Iran,DTP3,2015,98%
+Iran,DTP1,2015,99%
+Iran,MCV1,2014,99%
+Iran,DTP3,2014,99%
+Iran,DTP1,2014,99%
+Iraq,MCV1,2020,76%
+Iraq,DTP3,2020,74%
+Iraq,DTP1,2020,90%
+Iraq,MCV1,2019,82%
+Iraq,DTP3,2019,84%
+Iraq,DTP1,2019,93%
+Iraq,MCV1,2018,85%
+Iraq,DTP3,2018,86%
+Iraq,DTP1,2018,95%
+Iraq,MCV1,2017,81%
+Iraq,DTP3,2017,81%
+Iraq,DTP1,2017,89%
+Iraq,MCV1,2016,79%
+Iraq,DTP3,2016,71%
+Iraq,DTP1,2016,71%
+Iraq,MCV1,2015,71%
+Iraq,DTP3,2015,68%
+Iraq,DTP1,2015,80%
+Iraq,MCV1,2014,70%
+Iraq,DTP3,2014,73%
+Iraq,DTP1,2014,84%
+Jamaica,MCV1,2020,93%
+Jamaica,DTP3,2020,96%
+Jamaica,DTP1,2020,97%
+Jamaica,MCV1,2019,94%
+Jamaica,DTP3,2019,96%
+Jamaica,DTP1,2019,97%
+Jamaica,MCV1,2018,89%
+Jamaica,DTP3,2018,97%
+Jamaica,DTP1,2018,99%
+Jamaica,MCV1,2017,95%
+Jamaica,DTP3,2017,93%
+Jamaica,DTP1,2017,95%
+Jamaica,MCV1,2016,95%
+Jamaica,DTP3,2016,99%
+Jamaica,DTP1,2016,99%
+Jamaica,MCV1,2015,91%
+Jamaica,DTP3,2015,91%
+Jamaica,DTP1,2015,97%
+Jamaica,MCV1,2014,92%
+Jamaica,DTP3,2014,92%
+Jamaica,DTP1,2014,97%
+Jordan,MCV1,2020,76%
+Jordan,DTP3,2020,77%
+Jordan,DTP1,2020,78%
+Jordan,MCV1,2019,87%
+Jordan,DTP3,2019,89%
+Jordan,DTP1,2019,90%
+Jordan,MCV1,2018,92%
+Jordan,DTP3,2018,96%
+Jordan,DTP1,2018,98%
+Jordan,MCV1,2017,93%
+Jordan,DTP3,2017,99%
+Jordan,DTP1,2017,99%
+Jordan,MCV1,2016,96%
+Jordan,DTP3,2016,98%
+Jordan,DTP1,2016,99%
+Jordan,MCV1,2015,94%
+Jordan,DTP3,2015,99%
+Jordan,DTP1,2015,99%
+Jordan,MCV1,2014,98%
+Jordan,DTP3,2014,98%
+Jordan,DTP1,2014,98%
+Kazakhstan,MCV1,2020,93%
+Kazakhstan,DTP3,2020,88%
+Kazakhstan,DTP1,2020,94%
+Kazakhstan,MCV1,2019,99%
+Kazakhstan,DTP3,2019,97%
+Kazakhstan,DTP1,2019,99%
+Kazakhstan,MCV1,2018,99%
+Kazakhstan,DTP3,2018,98%
+Kazakhstan,DTP1,2018,99%
+Kazakhstan,MCV1,2017,99%
+Kazakhstan,DTP3,2017,99%
+Kazakhstan,DTP1,2017,99%
+Kazakhstan,MCV1,2016,99%
+Kazakhstan,DTP3,2016,82%
+Kazakhstan,DTP1,2016,93%
+Kazakhstan,MCV1,2015,99%
+Kazakhstan,DTP3,2015,98%
+Kazakhstan,DTP1,2015,99%
+Kazakhstan,MCV1,2014,99%
+Kazakhstan,DTP3,2014,95%
+Kazakhstan,DTP1,2014,96%
+Kenya,MCV1,2020,88%
+Kenya,DTP3,2020,89%
+Kenya,DTP1,2020,94%
+Kenya,MCV1,2019,89%
+Kenya,DTP3,2019,91%
+Kenya,DTP1,2019,97%
+Kenya,MCV1,2018,89%
+Kenya,DTP3,2018,92%
+Kenya,DTP1,2018,97%
+Kenya,MCV1,2017,89%
+Kenya,DTP3,2017,82%
+Kenya,DTP1,2017,93%
+Kenya,MCV1,2016,96%
+Kenya,DTP3,2016,89%
+Kenya,DTP1,2016,96%
+Kenya,MCV1,2015,96%
+Kenya,DTP3,2015,89%
+Kenya,DTP1,2015,96%
+Kenya,MCV1,2014,95%
+Kenya,DTP3,2014,92%
+Kenya,DTP1,2014,97%
+Kiribati,MCV1,2020,82%
+Kiribati,DTP3,2020,92%
+Kiribati,DTP1,2020,99%
+Kiribati,MCV1,2019,94%
+Kiribati,DTP3,2019,97%
+Kiribati,DTP1,2019,97%
+Kiribati,MCV1,2018,84%
+Kiribati,DTP3,2018,95%
+Kiribati,DTP1,2018,96%
+Kiribati,MCV1,2017,81%
+Kiribati,DTP3,2017,90%
+Kiribati,DTP1,2017,94%
+Kiribati,MCV1,2016,80%
+Kiribati,DTP3,2016,81%
+Kiribati,DTP1,2016,82%
+Kiribati,MCV1,2015,84%
+Kiribati,DTP3,2015,78%
+Kiribati,DTP1,2015,81%
+Kiribati,MCV1,2014,88%
+Kiribati,DTP3,2014,75%
+Kiribati,DTP1,2014,83%
+Kyrgyzstan,MCV1,2020,92%
+Kyrgyzstan,DTP3,2020,87%
+Kyrgyzstan,DTP1,2020,90%
+Kyrgyzstan,MCV1,2019,96%
+Kyrgyzstan,DTP3,2019,95%
+Kyrgyzstan,DTP1,2019,99%
+Kyrgyzstan,MCV1,2018,96%
+Kyrgyzstan,DTP3,2018,94%
+Kyrgyzstan,DTP1,2018,98%
+Kyrgyzstan,MCV1,2017,95%
+Kyrgyzstan,DTP3,2017,92%
+Kyrgyzstan,DTP1,2017,94%
+Kyrgyzstan,MCV1,2016,97%
+Kyrgyzstan,DTP3,2016,96%
+Kyrgyzstan,DTP1,2016,97%
+Kyrgyzstan,MCV1,2015,99%
+Kyrgyzstan,DTP3,2015,97%
+Kyrgyzstan,DTP1,2015,99%
+Kyrgyzstan,MCV1,2014,96%
+Kyrgyzstan,DTP3,2014,96%
+Kyrgyzstan,DTP1,2014,96%
+Laos,MCV1,2020,79%
+Laos,DTP3,2020,79%
+Laos,DTP1,2020,87%
+Laos,MCV1,2019,83%
+Laos,DTP3,2019,80%
+Laos,DTP1,2019,86%
+Laos,MCV1,2018,86%
+Laos,DTP3,2018,85%
+Laos,DTP1,2018,91%
+Laos,MCV1,2017,86%
+Laos,DTP3,2017,84%
+Laos,DTP1,2017,91%
+Laos,MCV1,2016,81%
+Laos,DTP3,2016,83%
+Laos,DTP1,2016,88%
+Laos,MCV1,2015,81%
+Laos,DTP3,2015,83%
+Laos,DTP1,2015,88%
+Laos,MCV1,2014,81%
+Laos,DTP3,2014,83%
+Laos,DTP1,2014,88%
+Lebanon,MCV1,2020,74%
+Lebanon,DTP3,2020,71%
+Lebanon,DTP1,2020,87%
+Lebanon,MCV1,2019,82%
+Lebanon,DTP3,2019,83%
+Lebanon,DTP1,2019,96%
+Lebanon,MCV1,2018,82%
+Lebanon,DTP3,2018,83%
+Lebanon,DTP1,2018,96%
+Lebanon,MCV1,2017,82%
+Lebanon,DTP3,2017,83%
+Lebanon,DTP1,2017,96%
+Lebanon,MCV1,2016,82%
+Lebanon,DTP3,2016,83%
+Lebanon,DTP1,2016,96%
+Lebanon,MCV1,2015,82%
+Lebanon,DTP3,2015,83%
+Lebanon,DTP1,2015,96%
+Lebanon,MCV1,2014,82%
+Lebanon,DTP3,2014,83%
+Lebanon,DTP1,2014,96%
+Lesotho,MCV1,2020,75%
+Lesotho,DTP3,2020,87%
+Lesotho,DTP1,2020,92%
+Lesotho,MCV1,2019,90%
+Lesotho,DTP3,2019,87%
+Lesotho,DTP1,2019,92%
+Lesotho,MCV1,2018,90%
+Lesotho,DTP3,2018,87%
+Lesotho,DTP1,2018,92%
+Lesotho,MCV1,2017,90%
+Lesotho,DTP3,2017,87%
+Lesotho,DTP1,2017,92%
+Lesotho,MCV1,2016,90%
+Lesotho,DTP3,2016,87%
+Lesotho,DTP1,2016,92%
+Lesotho,MCV1,2015,93%
+Lesotho,DTP3,2015,83%
+Lesotho,DTP1,2015,89%
+Lesotho,MCV1,2014,92%
+Lesotho,DTP3,2014,88%
+Lesotho,DTP1,2014,94%
+Liberia,MCV1,2020,61%
+Liberia,DTP3,2020,65%
+Liberia,DTP1,2020,82%
+Liberia,MCV1,2019,68%
+Liberia,DTP3,2019,70%
+Liberia,DTP1,2019,86%
+Liberia,MCV1,2018,74%
+Liberia,DTP3,2018,80%
+Liberia,DTP1,2018,91%
+Liberia,MCV1,2017,75%
+Liberia,DTP3,2017,80%
+Liberia,DTP1,2017,89%
+Liberia,MCV1,2016,70%
+Liberia,DTP3,2016,73%
+Liberia,DTP1,2016,83%
+Liberia,MCV1,2015,64%
+Liberia,DTP3,2015,65%
+Liberia,DTP1,2015,77%
+Liberia,MCV1,2014,58%
+Liberia,DTP3,2014,63%
+Liberia,DTP1,2014,74%
+Libya,MCV1,2020,73%
+Libya,DTP3,2020,73%
+Libya,DTP1,2020,74%
+Libya,MCV1,2019,73%
+Libya,DTP3,2019,73%
+Libya,DTP1,2019,74%
+Libya,MCV1,2018,73%
+Libya,DTP3,2018,73%
+Libya,DTP1,2018,74%
+Libya,MCV1,2017,94%
+Libya,DTP3,2017,96%
+Libya,DTP1,2017,99%
+Libya,MCV1,2016,97%
+Libya,DTP3,2016,97%
+Libya,DTP1,2016,98%
+Libya,MCV1,2015,98%
+Libya,DTP3,2015,97%
+Libya,DTP1,2015,98%
+Libya,MCV1,2014,93%
+Libya,DTP3,2014,94%
+Libya,DTP1,2014,96%
+Macedonia,MCV1,2020,76%
+Macedonia,DTP3,2020,93%
+Macedonia,DTP1,2020,99%
+Macedonia,MCV1,2019,75%
+Macedonia,DTP3,2019,92%
+Macedonia,DTP1,2019,98%
+Macedonia,MCV1,2018,75%
+Macedonia,DTP3,2018,92%
+Macedonia,DTP1,2018,98%
+Macedonia,MCV1,2017,83%
+Macedonia,DTP3,2017,91%
+Macedonia,DTP1,2017,97%
+Macedonia,MCV1,2016,82%
+Macedonia,DTP3,2016,95%
+Macedonia,DTP1,2016,97%
+Macedonia,MCV1,2015,89%
+Macedonia,DTP3,2015,91%
+Macedonia,DTP1,2015,98%
+Macedonia,MCV1,2014,93%
+Macedonia,DTP3,2014,95%
+Macedonia,DTP1,2014,98%
+Madagascar,MCV1,2020,59%
+Madagascar,DTP3,2020,68%
+Madagascar,DTP1,2020,73%
+Madagascar,MCV1,2019,64%
+Madagascar,DTP3,2019,70%
+Madagascar,DTP1,2019,74%
+Madagascar,MCV1,2018,57%
+Madagascar,DTP3,2018,66%
+Madagascar,DTP1,2018,72%
+Madagascar,MCV1,2017,55%
+Madagascar,DTP3,2017,65%
+Madagascar,DTP1,2017,71%
+Madagascar,MCV1,2016,62%
+Madagascar,DTP3,2016,68%
+Madagascar,DTP1,2016,74%
+Madagascar,MCV1,2015,60%
+Madagascar,DTP3,2015,62%
+Madagascar,DTP1,2015,71%
+Madagascar,MCV1,2014,66%
+Madagascar,DTP3,2014,68%
+Madagascar,DTP1,2014,77%
+Malawi,MCV1,2020,90%
+Malawi,DTP3,2020,94%
+Malawi,DTP1,2020,95%
+Malawi,MCV1,2019,92%
+Malawi,DTP3,2019,95%
+Malawi,DTP1,2019,97%
+Malawi,MCV1,2018,87%
+Malawi,DTP3,2018,92%
+Malawi,DTP1,2018,96%
+Malawi,MCV1,2017,83%
+Malawi,DTP3,2017,88%
+Malawi,DTP1,2017,93%
+Malawi,MCV1,2016,81%
+Malawi,DTP3,2016,84%
+Malawi,DTP1,2016,89%
+Malawi,MCV1,2015,87%
+Malawi,DTP3,2015,88%
+Malawi,DTP1,2015,93%
+Malawi,MCV1,2014,85%
+Malawi,DTP3,2014,91%
+Malawi,DTP1,2014,97%
+Malaysia,MCV1,2020,95%
+Malaysia,DTP3,2020,98%
+Malaysia,DTP1,2020,99%
+Malaysia,MCV1,2019,97%
+Malaysia,DTP3,2019,98%
+Malaysia,DTP1,2019,99%
+Malaysia,MCV1,2018,96%
+Malaysia,DTP3,2018,99%
+Malaysia,DTP1,2018,99%
+Malaysia,MCV1,2017,93%
+Malaysia,DTP3,2017,99%
+Malaysia,DTP1,2017,99%
+Malaysia,MCV1,2016,93%
+Malaysia,DTP3,2016,95%
+Malaysia,DTP1,2016,98%
+Malaysia,MCV1,2015,93%
+Malaysia,DTP3,2015,99%
+Malaysia,DTP1,2015,99%
+Malaysia,MCV1,2014,94%
+Malaysia,DTP3,2014,97%
+Malaysia,DTP1,2014,99%
+Maldives,MCV1,2020,99%
+Maldives,DTP3,2020,99%
+Maldives,DTP1,2020,99%
+Maldives,MCV1,2019,99%
+Maldives,DTP3,2019,98%
+Maldives,DTP1,2019,99%
+Maldives,MCV1,2018,99%
+Maldives,DTP3,2018,99%
+Maldives,DTP1,2018,99%
+Maldives,MCV1,2017,99%
+Maldives,DTP3,2017,99%
+Maldives,DTP1,2017,99%
+Maldives,MCV1,2016,99%
+Maldives,DTP3,2016,99%
+Maldives,DTP1,2016,99%
+Maldives,MCV1,2015,99%
+Maldives,DTP3,2015,99%
+Maldives,DTP1,2015,99%
+Maldives,MCV1,2014,99%
+Maldives,DTP3,2014,99%
+Maldives,DTP1,2014,99%
+Mali,MCV1,2020,62%
+Mali,DTP3,2020,70%
+Mali,DTP1,2020,75%
+Mali,MCV1,2019,70%
+Mali,DTP3,2019,77%
+Mali,DTP1,2019,82%
+Mali,MCV1,2018,70%
+Mali,DTP3,2018,77%
+Mali,DTP1,2018,82%
+Mali,MCV1,2017,70%
+Mali,DTP3,2017,77%
+Mali,DTP1,2017,82%
+Mali,MCV1,2016,70%
+Mali,DTP3,2016,76%
+Mali,DTP1,2016,82%
+Mali,MCV1,2015,66%
+Mali,DTP3,2015,71%
+Mali,DTP1,2015,78%
+Mali,MCV1,2014,61%
+Mali,DTP3,2014,66%
+Mali,DTP1,2014,73%
+Marshall Islands,MCV1,2020,86%
+Marshall Islands,DTP3,2020,80%
+Marshall Islands,DTP1,2020,97%
+Marshall Islands,MCV1,2019,85%
+Marshall Islands,DTP3,2019,79%
+Marshall Islands,DTP1,2019,96%
+Marshall Islands,MCV1,2018,83%
+Marshall Islands,DTP3,2018,81%
+Marshall Islands,DTP1,2018,97%
+Marshall Islands,MCV1,2017,83%
+Marshall Islands,DTP3,2017,80%
+Marshall Islands,DTP1,2017,97%
+Marshall Islands,MCV1,2016,75%
+Marshall Islands,DTP3,2016,71%
+Marshall Islands,DTP1,2016,87%
+Marshall Islands,MCV1,2015,75%
+Marshall Islands,DTP3,2015,85%
+Marshall Islands,DTP1,2015,95%
+Marshall Islands,MCV1,2014,79%
+Marshall Islands,DTP3,2014,78%
+Marshall Islands,DTP1,2014,97%
+Mauritania,MCV1,2020,72%
+Mauritania,DTP3,2020,71%
+Mauritania,DTP1,2020,79%
+Mauritania,MCV1,2019,78%
+Mauritania,DTP3,2019,81%
+Mauritania,DTP1,2019,89%
+Mauritania,MCV1,2018,78%
+Mauritania,DTP3,2018,81%
+Mauritania,DTP1,2018,89%
+Mauritania,MCV1,2017,78%
+Mauritania,DTP3,2017,81%
+Mauritania,DTP1,2017,89%
+Mauritania,MCV1,2016,72%
+Mauritania,DTP3,2016,74%
+Mauritania,DTP1,2016,86%
+Mauritania,MCV1,2015,70%
+Mauritania,DTP3,2015,73%
+Mauritania,DTP1,2015,87%
+Mauritania,MCV1,2014,75%
+Mauritania,DTP3,2014,81%
+Mauritania,DTP1,2014,95%
+Mauritius,MCV1,2020,89%
+Mauritius,DTP3,2020,93%
+Mauritius,DTP1,2020,94%
+Mauritius,MCV1,2019,99%
+Mauritius,DTP3,2019,96%
+Mauritius,DTP1,2019,97%
+Mauritius,MCV1,2018,99%
+Mauritius,DTP3,2018,97%
+Mauritius,DTP1,2018,98%
+Mauritius,MCV1,2017,89%
+Mauritius,DTP3,2017,94%
+Mauritius,DTP1,2017,96%
+Mauritius,MCV1,2016,92%
+Mauritius,DTP3,2016,96%
+Mauritius,DTP1,2016,97%
+Mauritius,MCV1,2015,99%
+Mauritius,DTP3,2015,97%
+Mauritius,DTP1,2015,98%
+Mauritius,MCV1,2014,98%
+Mauritius,DTP3,2014,97%
+Mauritius,DTP1,2014,97%
+Mexico,MCV1,2020,89%
+Mexico,DTP3,2020,74%
+Mexico,DTP1,2020,79%
+Mexico,MCV1,2019,73%
+Mexico,DTP3,2019,82%
+Mexico,DTP1,2019,84%
+Mexico,MCV1,2018,97%
+Mexico,DTP3,2018,88%
+Mexico,DTP1,2018,90%
+Mexico,MCV1,2017,76%
+Mexico,DTP3,2017,85%
+Mexico,DTP1,2017,93%
+Mexico,MCV1,2016,96%
+Mexico,DTP3,2016,93%
+Mexico,DTP1,2016,96%
+Mexico,MCV1,2015,97%
+Mexico,DTP3,2015,87%
+Mexico,DTP1,2015,99%
+Mexico,MCV1,2014,97%
+Mexico,DTP3,2014,87%
+Mexico,DTP1,2014,95%
+Micronesia,MCV1,2020,79%
+Micronesia,DTP3,2020,83%
+Micronesia,DTP1,2020,98%
+Micronesia,MCV1,2019,78%
+Micronesia,DTP3,2019,78%
+Micronesia,DTP1,2019,97%
+Micronesia,MCV1,2018,73%
+Micronesia,DTP3,2018,75%
+Micronesia,DTP1,2018,97%
+Micronesia,MCV1,2017,76%
+Micronesia,DTP3,2017,73%
+Micronesia,DTP1,2017,97%
+Micronesia,MCV1,2016,70%
+Micronesia,DTP3,2016,69%
+Micronesia,DTP1,2016,95%
+Micronesia,MCV1,2015,74%
+Micronesia,DTP3,2015,72%
+Micronesia,DTP1,2015,95%
+Micronesia,MCV1,2014,83%
+Micronesia,DTP3,2014,77%
+Micronesia,DTP1,2014,97%
+Moldova,MCV1,2020,84%
+Moldova,DTP3,2020,86%
+Moldova,DTP1,2020,86%
+Moldova,MCV1,2019,97%
+Moldova,DTP3,2019,91%
+Moldova,DTP1,2019,91%
+Moldova,MCV1,2018,93%
+Moldova,DTP3,2018,93%
+Moldova,DTP1,2018,96%
+Moldova,MCV1,2017,93%
+Moldova,DTP3,2017,88%
+Moldova,DTP1,2017,91%
+Moldova,MCV1,2016,88%
+Moldova,DTP3,2016,89%
+Moldova,DTP1,2016,94%
+Moldova,MCV1,2015,89%
+Moldova,DTP3,2015,87%
+Moldova,DTP1,2015,88%
+Moldova,MCV1,2014,90%
+Moldova,DTP3,2014,90%
+Moldova,DTP1,2014,94%
+Mongolia,MCV1,2020,97%
+Mongolia,DTP3,2020,96%
+Mongolia,DTP1,2020,98%
+Mongolia,MCV1,2019,98%
+Mongolia,DTP3,2019,98%
+Mongolia,DTP1,2019,99%
+Mongolia,MCV1,2018,99%
+Mongolia,DTP3,2018,99%
+Mongolia,DTP1,2018,99%
+Mongolia,MCV1,2017,99%
+Mongolia,DTP3,2017,99%
+Mongolia,DTP1,2017,99%
+Mongolia,MCV1,2016,98%
+Mongolia,DTP3,2016,99%
+Mongolia,DTP1,2016,99%
+Mongolia,MCV1,2015,98%
+Mongolia,DTP3,2015,99%
+Mongolia,DTP1,2015,99%
+Mongolia,MCV1,2014,98%
+Mongolia,DTP3,2014,99%
+Mongolia,DTP1,2014,99%
+Montenegro,MCV1,2020,24%
+Montenegro,DTP3,2020,84%
+Montenegro,DTP1,2020,94%
+Montenegro,MCV1,2019,33%
+Montenegro,DTP3,2019,85%
+Montenegro,DTP1,2019,94%
+Montenegro,MCV1,2018,42%
+Montenegro,DTP3,2018,86%
+Montenegro,DTP1,2018,94%
+Montenegro,MCV1,2017,58%
+Montenegro,DTP3,2017,87%
+Montenegro,DTP1,2017,95%
+Montenegro,MCV1,2016,47%
+Montenegro,DTP3,2016,89%
+Montenegro,DTP1,2016,97%
+Montenegro,MCV1,2015,64%
+Montenegro,DTP3,2015,89%
+Montenegro,DTP1,2015,96%
+Montenegro,MCV1,2014,76%
+Montenegro,DTP3,2014,91%
+Montenegro,DTP1,2014,97%
+Morocco,MCV1,2020,99%
+Morocco,DTP3,2020,99%
+Morocco,DTP1,2020,99%
+Morocco,MCV1,2019,99%
+Morocco,DTP3,2019,99%
+Morocco,DTP1,2019,99%
+Morocco,MCV1,2018,99%
+Morocco,DTP3,2018,99%
+Morocco,DTP1,2018,99%
+Morocco,MCV1,2017,99%
+Morocco,DTP3,2017,99%
+Morocco,DTP1,2017,99%
+Morocco,MCV1,2016,99%
+Morocco,DTP3,2016,99%
+Morocco,DTP1,2016,99%
+Morocco,MCV1,2015,99%
+Morocco,DTP3,2015,99%
+Morocco,DTP1,2015,99%
+Morocco,MCV1,2014,99%
+Morocco,DTP3,2014,99%
+Morocco,DTP1,2014,99%
+Mozambique,MCV1,2020,81%
+Mozambique,DTP3,2020,79%
+Mozambique,DTP1,2020,83%
+Mozambique,MCV1,2019,87%
+Mozambique,DTP3,2019,88%
+Mozambique,DTP1,2019,91%
+Mozambique,MCV1,2018,87%
+Mozambique,DTP3,2018,88%
+Mozambique,DTP1,2018,91%
+Mozambique,MCV1,2017,87%
+Mozambique,DTP3,2017,88%
+Mozambique,DTP1,2017,92%
+Mozambique,MCV1,2016,87%
+Mozambique,DTP3,2016,88%
+Mozambique,DTP1,2016,92%
+Mozambique,MCV1,2015,87%
+Mozambique,DTP3,2015,88%
+Mozambique,DTP1,2015,93%
+Mozambique,MCV1,2014,87%
+Mozambique,DTP3,2014,88%
+Mozambique,DTP1,2014,93%
+Myanmar,MCV1,2020,91%
+Myanmar,DTP3,2020,84%
+Myanmar,DTP1,2020,87%
+Myanmar,MCV1,2019,84%
+Myanmar,DTP3,2019,90%
+Myanmar,DTP1,2019,93%
+Myanmar,MCV1,2018,93%
+Myanmar,DTP3,2018,91%
+Myanmar,DTP1,2018,95%
+Myanmar,MCV1,2017,83%
+Myanmar,DTP3,2017,89%
+Myanmar,DTP1,2017,94%
+Myanmar,MCV1,2016,91%
+Myanmar,DTP3,2016,90%
+Myanmar,DTP1,2016,94%
+Myanmar,MCV1,2015,84%
+Myanmar,DTP3,2015,89%
+Myanmar,DTP1,2015,94%
+Myanmar,MCV1,2014,88%
+Myanmar,DTP3,2014,88%
+Myanmar,DTP1,2014,92%
+Namibia,MCV1,2020,81%
+Namibia,DTP3,2020,88%
+Namibia,DTP1,2020,93%
+Namibia,MCV1,2019,80%
+Namibia,DTP3,2019,87%
+Namibia,DTP1,2019,92%
+Namibia,MCV1,2018,82%
+Namibia,DTP3,2018,89%
+Namibia,DTP1,2018,94%
+Namibia,MCV1,2017,80%
+Namibia,DTP3,2017,88%
+Namibia,DTP1,2017,94%
+Namibia,MCV1,2016,75%
+Namibia,DTP3,2016,85%
+Namibia,DTP1,2016,90%
+Namibia,MCV1,2015,85%
+Namibia,DTP3,2015,92%
+Namibia,DTP1,2015,98%
+Namibia,MCV1,2014,83%
+Namibia,DTP3,2014,88%
+Namibia,DTP1,2014,92%
+Nepal,MCV1,2020,87%
+Nepal,DTP3,2020,84%
+Nepal,DTP1,2020,89%
+Nepal,MCV1,2019,92%
+Nepal,DTP3,2019,93%
+Nepal,DTP1,2019,96%
+Nepal,MCV1,2018,91%
+Nepal,DTP3,2018,91%
+Nepal,DTP1,2018,96%
+Nepal,MCV1,2017,90%
+Nepal,DTP3,2017,90%
+Nepal,DTP1,2017,96%
+Nepal,MCV1,2016,83%
+Nepal,DTP3,2016,87%
+Nepal,DTP1,2016,95%
+Nepal,MCV1,2015,85%
+Nepal,DTP3,2015,91%
+Nepal,DTP1,2015,94%
+Nepal,MCV1,2014,88%
+Nepal,DTP3,2014,92%
+Nepal,DTP1,2014,94%
+Nicaragua,MCV1,2020,97%
+Nicaragua,DTP3,2020,92%
+Nicaragua,DTP1,2020,94%
+Nicaragua,MCV1,2019,99%
+Nicaragua,DTP3,2019,98%
+Nicaragua,DTP1,2019,99%
+Nicaragua,MCV1,2018,99%
+Nicaragua,DTP3,2018,98%
+Nicaragua,DTP1,2018,99%
+Nicaragua,MCV1,2017,99%
+Nicaragua,DTP3,2017,98%
+Nicaragua,DTP1,2017,99%
+Nicaragua,MCV1,2016,99%
+Nicaragua,DTP3,2016,98%
+Nicaragua,DTP1,2016,99%
+Nicaragua,MCV1,2015,99%
+Nicaragua,DTP3,2015,98%
+Nicaragua,DTP1,2015,99%
+Nicaragua,MCV1,2014,99%
+Nicaragua,DTP3,2014,98%
+Nicaragua,DTP1,2014,99%
+Niger,MCV1,2020,79%
+Niger,DTP3,2020,81%
+Niger,DTP1,2020,93%
+Niger,MCV1,2019,79%
+Niger,DTP3,2019,81%
+Niger,DTP1,2019,92%
+Niger,MCV1,2018,77%
+Niger,DTP3,2018,79%
+Niger,DTP1,2018,91%
+Niger,MCV1,2017,82%
+Niger,DTP3,2017,85%
+Niger,DTP1,2017,95%
+Niger,MCV1,2016,76%
+Niger,DTP3,2016,80%
+Niger,DTP1,2016,92%
+Niger,MCV1,2015,85%
+Niger,DTP3,2015,84%
+Niger,DTP1,2015,93%
+Niger,MCV1,2014,80%
+Niger,DTP3,2014,81%
+Niger,DTP1,2014,95%
+Nigeria,MCV1,2020,54%
+Nigeria,DTP3,2020,57%
+Nigeria,DTP1,2020,65%
+Nigeria,MCV1,2019,54%
+Nigeria,DTP3,2019,57%
+Nigeria,DTP1,2019,65%
+Nigeria,MCV1,2018,54%
+Nigeria,DTP3,2018,56%
+Nigeria,DTP1,2018,65%
+Nigeria,MCV1,2017,54%
+Nigeria,DTP3,2017,55%
+Nigeria,DTP1,2017,65%
+Nigeria,MCV1,2016,51%
+Nigeria,DTP3,2016,53%
+Nigeria,DTP1,2016,62%
+Nigeria,MCV1,2015,42%
+Nigeria,DTP3,2015,42%
+Nigeria,DTP1,2015,49%
+Nigeria,MCV1,2014,44%
+Nigeria,DTP3,2014,43%
+Nigeria,DTP1,2014,48%
+North Korea,MCV1,2020,99%
+North Korea,DTP3,2020,97%
+North Korea,DTP1,2020,98%
+North Korea,MCV1,2019,98%
+North Korea,DTP3,2019,97%
+North Korea,DTP1,2019,98%
+North Korea,MCV1,2018,98%
+North Korea,DTP3,2018,97%
+North Korea,DTP1,2018,99%
+North Korea,MCV1,2017,99%
+North Korea,DTP3,2017,97%
+North Korea,DTP1,2017,98%
+North Korea,MCV1,2016,99%
+North Korea,DTP3,2016,96%
+North Korea,DTP1,2016,97%
+North Korea,MCV1,2015,98%
+North Korea,DTP3,2015,96%
+North Korea,DTP1,2015,97%
+North Korea,MCV1,2014,99%
+North Korea,DTP3,2014,93%
+North Korea,DTP1,2014,94%
+Pakistan,MCV1,2020,83%
+Pakistan,DTP3,2020,77%
+Pakistan,DTP1,2020,83%
+Pakistan,MCV1,2019,81%
+Pakistan,DTP3,2019,84%
+Pakistan,DTP1,2019,90%
+Pakistan,MCV1,2018,79%
+Pakistan,DTP3,2018,80%
+Pakistan,DTP1,2018,87%
+Pakistan,MCV1,2017,76%
+Pakistan,DTP3,2017,75%
+Pakistan,DTP1,2017,83%
+Pakistan,MCV1,2016,75%
+Pakistan,DTP3,2016,75%
+Pakistan,DTP1,2016,82%
+Pakistan,MCV1,2015,75%
+Pakistan,DTP3,2015,72%
+Pakistan,DTP1,2015,82%
+Pakistan,MCV1,2014,71%
+Pakistan,DTP3,2014,69%
+Pakistan,DTP1,2014,80%
+Panama,MCV1,2020,80%
+Panama,DTP3,2020,74%
+Panama,DTP1,2020,93%
+Panama,MCV1,2019,97%
+Panama,DTP3,2019,88%
+Panama,DTP1,2019,97%
+Panama,MCV1,2018,98%
+Panama,DTP3,2018,88%
+Panama,DTP1,2018,97%
+Panama,MCV1,2017,98%
+Panama,DTP3,2017,81%
+Panama,DTP1,2017,96%
+Panama,MCV1,2016,95%
+Panama,DTP3,2016,86%
+Panama,DTP1,2016,96%
+Panama,MCV1,2015,93%
+Panama,DTP3,2015,73%
+Panama,DTP1,2015,96%
+Panama,MCV1,2014,90%
+Panama,DTP3,2014,80%
+Panama,DTP1,2014,96%
+Papua New Guinea,MCV1,2020,47%
+Papua New Guinea,DTP3,2020,39%
+Papua New Guinea,DTP1,2020,48%
+Papua New Guinea,MCV1,2019,37%
+Papua New Guinea,DTP3,2019,35%
+Papua New Guinea,DTP1,2019,44%
+Papua New Guinea,MCV1,2018,37%
+Papua New Guinea,DTP3,2018,35%
+Papua New Guinea,DTP1,2018,44%
+Papua New Guinea,MCV1,2017,38%
+Papua New Guinea,DTP3,2017,36%
+Papua New Guinea,DTP1,2017,46%
+Papua New Guinea,MCV1,2016,46%
+Papua New Guinea,DTP3,2016,46%
+Papua New Guinea,DTP1,2016,64%
+Papua New Guinea,MCV1,2015,57%
+Papua New Guinea,DTP3,2015,49%
+Papua New Guinea,DTP1,2015,62%
+Papua New Guinea,MCV1,2014,65%
+Papua New Guinea,DTP3,2014,52%
+Papua New Guinea,DTP1,2014,68%
+Paraguay,MCV1,2020,80%
+Paraguay,DTP3,2020,79%
+Paraguay,DTP1,2020,84%
+Paraguay,MCV1,2019,87%
+Paraguay,DTP3,2019,86%
+Paraguay,DTP1,2019,88%
+Paraguay,MCV1,2018,93%
+Paraguay,DTP3,2018,88%
+Paraguay,DTP1,2018,91%
+Paraguay,MCV1,2017,92%
+Paraguay,DTP3,2017,91%
+Paraguay,DTP1,2017,95%
+Paraguay,MCV1,2016,85%
+Paraguay,DTP3,2016,92%
+Paraguay,DTP1,2016,94%
+Paraguay,MCV1,2015,78%
+Paraguay,DTP3,2015,92%
+Paraguay,DTP1,2015,96%
+Paraguay,MCV1,2014,84%
+Paraguay,DTP3,2014,93%
+Paraguay,DTP1,2014,95%
+Peru,MCV1,2020,86%
+Peru,DTP3,2020,89%
+Peru,DTP1,2020,98%
+Peru,MCV1,2019,85%
+Peru,DTP3,2019,88%
+Peru,DTP1,2019,97%
+Peru,MCV1,2018,85%
+Peru,DTP3,2018,84%
+Peru,DTP1,2018,90%
+Peru,MCV1,2017,83%
+Peru,DTP3,2017,83%
+Peru,DTP1,2017,90%
+Peru,MCV1,2016,88%
+Peru,DTP3,2016,89%
+Peru,DTP1,2016,94%
+Peru,MCV1,2015,92%
+Peru,DTP3,2015,90%
+Peru,DTP1,2015,97%
+Peru,MCV1,2014,89%
+Peru,DTP3,2014,88%
+Peru,DTP1,2014,98%
+Philippines,MCV1,2020,72%
+Philippines,DTP3,2020,71%
+Philippines,DTP1,2020,74%
+Philippines,MCV1,2019,73%
+Philippines,DTP3,2019,77%
+Philippines,DTP1,2019,79%
+Philippines,MCV1,2018,75%
+Philippines,DTP3,2018,79%
+Philippines,DTP1,2018,82%
+Philippines,MCV1,2017,78%
+Philippines,DTP3,2017,82%
+Philippines,DTP1,2017,84%
+Philippines,MCV1,2016,80%
+Philippines,DTP3,2016,84%
+Philippines,DTP1,2016,87%
+Philippines,MCV1,2015,82%
+Philippines,DTP3,2015,55%
+Philippines,DTP1,2015,69%
+Philippines,MCV1,2014,79%
+Philippines,DTP3,2014,63%
+Philippines,DTP1,2014,78%
+Romania,MCV1,2020,87%
+Romania,DTP3,2020,87%
+Romania,DTP1,2020,95%
+Romania,MCV1,2019,90%
+Romania,DTP3,2019,88%
+Romania,DTP1,2019,96%
+Romania,MCV1,2018,90%
+Romania,DTP3,2018,86%
+Romania,DTP1,2018,94%
+Romania,MCV1,2017,86%
+Romania,DTP3,2017,82%
+Romania,DTP1,2017,94%
+Romania,MCV1,2016,86%
+Romania,DTP3,2016,89%
+Romania,DTP1,2016,94%
+Romania,MCV1,2015,86%
+Romania,DTP3,2015,89%
+Romania,DTP1,2015,95%
+Romania,MCV1,2014,89%
+Romania,DTP3,2014,94%
+Romania,DTP1,2014,95%
+Russia,MCV1,2020,97%
+Russia,DTP3,2020,97%
+Russia,DTP1,2020,97%
+Russia,MCV1,2019,98%
+Russia,DTP3,2019,97%
+Russia,DTP1,2019,97%
+Russia,MCV1,2018,98%
+Russia,DTP3,2018,97%
+Russia,DTP1,2018,97%
+Russia,MCV1,2017,98%
+Russia,DTP3,2017,97%
+Russia,DTP1,2017,97%
+Russia,MCV1,2016,98%
+Russia,DTP3,2016,97%
+Russia,DTP1,2016,97%
+Russia,MCV1,2015,98%
+Russia,DTP3,2015,97%
+Russia,DTP1,2015,97%
+Russia,MCV1,2014,98%
+Russia,DTP3,2014,97%
+Russia,DTP1,2014,97%
+Rwanda,MCV1,2020,94%
+Rwanda,DTP3,2020,91%
+Rwanda,DTP1,2020,91%
+Rwanda,MCV1,2019,96%
+Rwanda,DTP3,2019,98%
+Rwanda,DTP1,2019,99%
+Rwanda,MCV1,2018,99%
+Rwanda,DTP3,2018,97%
+Rwanda,DTP1,2018,98%
+Rwanda,MCV1,2017,97%
+Rwanda,DTP3,2017,98%
+Rwanda,DTP1,2017,99%
+Rwanda,MCV1,2016,95%
+Rwanda,DTP3,2016,98%
+Rwanda,DTP1,2016,99%
+Rwanda,MCV1,2015,96%
+Rwanda,DTP3,2015,98%
+Rwanda,DTP1,2015,99%
+Rwanda,MCV1,2014,97%
+Rwanda,DTP3,2014,98%
+Rwanda,DTP1,2014,99%
+Saint Lucia,MCV1,2020,89%
+Saint Lucia,DTP3,2020,86%
+Saint Lucia,DTP1,2020,90%
+Saint Lucia,MCV1,2019,96%
+Saint Lucia,DTP3,2019,92%
+Saint Lucia,DTP1,2019,99%
+Saint Lucia,MCV1,2018,86%
+Saint Lucia,DTP3,2018,95%
+Saint Lucia,DTP1,2018,99%
+Saint Lucia,MCV1,2017,87%
+Saint Lucia,DTP3,2017,80%
+Saint Lucia,DTP1,2017,89%
+Saint Lucia,MCV1,2016,99%
+Saint Lucia,DTP3,2016,95%
+Saint Lucia,DTP1,2016,95%
+Saint Lucia,MCV1,2015,97%
+Saint Lucia,DTP3,2015,99%
+Saint Lucia,DTP1,2015,99%
+Saint Lucia,MCV1,2014,99%
+Saint Lucia,DTP3,2014,99%
+Saint Lucia,DTP1,2014,99%
+Saint Vincent,MCV1,2020,99%
+Saint Vincent,DTP3,2020,97%
+Saint Vincent,DTP1,2020,99%
+Saint Vincent,MCV1,2019,99%
+Saint Vincent,DTP3,2019,97%
+Saint Vincent,DTP1,2019,99%
+Saint Vincent,MCV1,2018,99%
+Saint Vincent,DTP3,2018,97%
+Saint Vincent,DTP1,2018,97%
+Saint Vincent,MCV1,2017,99%
+Saint Vincent,DTP3,2017,99%
+Saint Vincent,DTP1,2017,99%
+Saint Vincent,MCV1,2016,99%
+Saint Vincent,DTP3,2016,99%
+Saint Vincent,DTP1,2016,99%
+Saint Vincent,MCV1,2015,99%
+Saint Vincent,DTP3,2015,99%
+Saint Vincent,DTP1,2015,99%
+Saint Vincent,MCV1,2014,99%
+Saint Vincent,DTP3,2014,98%
+Saint Vincent,DTP1,2014,99%
+Samoa,MCV1,2020,57%
+Samoa,DTP3,2020,79%
+Samoa,DTP1,2020,94%
+Samoa,MCV1,2019,87%
+Samoa,DTP3,2019,58%
+Samoa,DTP1,2019,86%
+Samoa,MCV1,2018,31%
+Samoa,DTP3,2018,34%
+Samoa,DTP1,2018,56%
+Samoa,MCV1,2017,58%
+Samoa,DTP3,2017,74%
+Samoa,DTP1,2017,84%
+Samoa,MCV1,2016,68%
+Samoa,DTP3,2016,80%
+Samoa,DTP1,2016,95%
+Samoa,MCV1,2015,69%
+Samoa,DTP3,2015,84%
+Samoa,DTP1,2015,89%
+Samoa,MCV1,2014,82%
+Samoa,DTP3,2014,81%
+Samoa,DTP1,2014,88%
+São Tomé,MCV1,2020,95%
+São Tomé,DTP3,2020,96%
+São Tomé,DTP1,2020,98%
+São Tomé,MCV1,2019,95%
+São Tomé,DTP3,2019,95%
+São Tomé,DTP1,2019,97%
+São Tomé,MCV1,2018,95%
+São Tomé,DTP3,2018,95%
+São Tomé,DTP1,2018,97%
+São Tomé,MCV1,2017,90%
+São Tomé,DTP3,2017,95%
+São Tomé,DTP1,2017,96%
+São Tomé,MCV1,2016,93%
+São Tomé,DTP3,2016,96%
+São Tomé,DTP1,2016,97%
+São Tomé,MCV1,2015,93%
+São Tomé,DTP3,2015,96%
+São Tomé,DTP1,2015,98%
+São Tomé,MCV1,2014,92%
+São Tomé,DTP3,2014,95%
+São Tomé,DTP1,2014,98%
+Senegal,MCV1,2020,88%
+Senegal,DTP3,2020,91%
+Senegal,DTP1,2020,93%
+Senegal,MCV1,2019,89%
+Senegal,DTP3,2019,95%
+Senegal,DTP1,2019,97%
+Senegal,MCV1,2018,86%
+Senegal,DTP3,2018,92%
+Senegal,DTP1,2018,96%
+Senegal,MCV1,2017,90%
+Senegal,DTP3,2017,93%
+Senegal,DTP1,2017,97%
+Senegal,MCV1,2016,93%
+Senegal,DTP3,2016,93%
+Senegal,DTP1,2016,96%
+Senegal,MCV1,2015,80%
+Senegal,DTP3,2015,89%
+Senegal,DTP1,2015,94%
+Senegal,MCV1,2014,80%
+Senegal,DTP3,2014,89%
+Senegal,DTP1,2014,94%
+Serbia,MCV1,2020,88%
+Serbia,DTP3,2020,98%
+Serbia,DTP1,2020,99%
+Serbia,MCV1,2019,87%
+Serbia,DTP3,2019,97%
+Serbia,DTP1,2019,99%
+Serbia,MCV1,2018,92%
+Serbia,DTP3,2018,96%
+Serbia,DTP1,2018,98%
+Serbia,MCV1,2017,86%
+Serbia,DTP3,2017,95%
+Serbia,DTP1,2017,98%
+Serbia,MCV1,2016,82%
+Serbia,DTP3,2016,92%
+Serbia,DTP1,2016,97%
+Serbia,MCV1,2015,86%
+Serbia,DTP3,2015,95%
+Serbia,DTP1,2015,98%
+Serbia,MCV1,2014,86%
+Serbia,DTP3,2014,93%
+Serbia,DTP1,2014,97%
+Sierra Leone,MCV1,2020,87%
+Sierra Leone,DTP3,2020,91%
+Sierra Leone,DTP1,2020,93%
+Sierra Leone,MCV1,2019,93%
+Sierra Leone,DTP3,2019,95%
+Sierra Leone,DTP1,2019,95%
+Sierra Leone,MCV1,2018,87%
+Sierra Leone,DTP3,2018,93%
+Sierra Leone,DTP1,2018,97%
+Sierra Leone,MCV1,2017,80%
+Sierra Leone,DTP3,2017,90%
+Sierra Leone,DTP1,2017,98%
+Sierra Leone,MCV1,2016,85%
+Sierra Leone,DTP3,2016,84%
+Sierra Leone,DTP1,2016,97%
+Sierra Leone,MCV1,2015,78%
+Sierra Leone,DTP3,2015,86%
+Sierra Leone,DTP1,2015,95%
+Sierra Leone,MCV1,2014,80%
+Sierra Leone,DTP3,2014,83%
+Sierra Leone,DTP1,2014,88%
+Solomon Islands,MCV1,2020,81%
+Solomon Islands,DTP3,2020,94%
+Solomon Islands,DTP1,2020,98%
+Solomon Islands,MCV1,2019,81%
+Solomon Islands,DTP3,2019,94%
+Solomon Islands,DTP1,2019,99%
+Solomon Islands,MCV1,2018,93%
+Solomon Islands,DTP3,2018,85%
+Solomon Islands,DTP1,2018,86%
+Solomon Islands,MCV1,2017,84%
+Solomon Islands,DTP3,2017,83%
+Solomon Islands,DTP1,2017,87%
+Solomon Islands,MCV1,2016,82%
+Solomon Islands,DTP3,2016,94%
+Solomon Islands,DTP1,2016,99%
+Solomon Islands,MCV1,2015,75%
+Solomon Islands,DTP3,2015,87%
+Solomon Islands,DTP1,2015,93%
+Solomon Islands,MCV1,2014,76%
+Solomon Islands,DTP3,2014,77%
+Solomon Islands,DTP1,2014,83%
+Somalia,MCV1,2020,46%
+Somalia,DTP3,2020,42%
+Somalia,DTP1,2020,52%
+Somalia,MCV1,2019,46%
+Somalia,DTP3,2019,42%
+Somalia,DTP1,2019,52%
+Somalia,MCV1,2018,46%
+Somalia,DTP3,2018,42%
+Somalia,DTP1,2018,52%
+Somalia,MCV1,2017,46%
+Somalia,DTP3,2017,42%
+Somalia,DTP1,2017,52%
+Somalia,MCV1,2016,46%
+Somalia,DTP3,2016,42%
+Somalia,DTP1,2016,52%
+Somalia,MCV1,2015,46%
+Somalia,DTP3,2015,42%
+Somalia,DTP1,2015,52%
+Somalia,MCV1,2014,46%
+Somalia,DTP3,2014,42%
+Somalia,DTP1,2014,52%
+South Africa,MCV1,2020,84%
+South Africa,DTP3,2020,84%
+South Africa,DTP1,2020,88%
+South Africa,MCV1,2019,83%
+South Africa,DTP3,2019,85%
+South Africa,DTP1,2019,87%
+South Africa,MCV1,2018,81%
+South Africa,DTP3,2018,82%
+South Africa,DTP1,2018,84%
+South Africa,MCV1,2017,81%
+South Africa,DTP3,2017,84%
+South Africa,DTP1,2017,85%
+South Africa,MCV1,2016,84%
+South Africa,DTP3,2016,85%
+South Africa,DTP1,2016,88%
+South Africa,MCV1,2015,86%
+South Africa,DTP3,2015,85%
+South Africa,DTP1,2015,91%
+South Africa,MCV1,2014,84%
+South Africa,DTP3,2014,85%
+South Africa,DTP1,2014,88%
+South Sudan,MCV1,2020,49%
+South Sudan,DTP3,2020,49%
+South Sudan,DTP1,2020,51%
+South Sudan,MCV1,2019,49%
+South Sudan,DTP3,2019,49%
+South Sudan,DTP1,2019,51%
+South Sudan,MCV1,2018,49%
+South Sudan,DTP3,2018,49%
+South Sudan,DTP1,2018,51%
+South Sudan,MCV1,2017,50%
+South Sudan,DTP3,2017,47%
+South Sudan,DTP1,2017,55%
+South Sudan,MCV1,2016,51%
+South Sudan,DTP3,2016,45%
+South Sudan,DTP1,2016,58%
+South Sudan,MCV1,2015,53%
+South Sudan,DTP3,2015,46%
+South Sudan,DTP1,2015,55%
+South Sudan,MCV1,2014,55%
+South Sudan,DTP3,2014,50%
+South Sudan,DTP1,2014,62%
+Sri Lanka,MCV1,2020,96%
+Sri Lanka,DTP3,2020,96%
+Sri Lanka,DTP1,2020,96%
+Sri Lanka,MCV1,2019,99%
+Sri Lanka,DTP3,2019,99%
+Sri Lanka,DTP1,2019,99%
+Sri Lanka,MCV1,2018,99%
+Sri Lanka,DTP3,2018,99%
+Sri Lanka,DTP1,2018,99%
+Sri Lanka,MCV1,2017,99%
+Sri Lanka,DTP3,2017,99%
+Sri Lanka,DTP1,2017,99%
+Sri Lanka,MCV1,2016,99%
+Sri Lanka,DTP3,2016,99%
+Sri Lanka,DTP1,2016,99%
+Sri Lanka,MCV1,2015,99%
+Sri Lanka,DTP3,2015,99%
+Sri Lanka,DTP1,2015,99%
+Sri Lanka,MCV1,2014,99%
+Sri Lanka,DTP3,2014,99%
+Sri Lanka,DTP1,2014,99%
+Sudan,MCV1,2020,86%
+Sudan,DTP3,2020,90%
+Sudan,DTP1,2020,96%
+Sudan,MCV1,2019,90%
+Sudan,DTP3,2019,93%
+Sudan,DTP1,2019,97%
+Sudan,MCV1,2018,88%
+Sudan,DTP3,2018,93%
+Sudan,DTP1,2018,97%
+Sudan,MCV1,2017,90%
+Sudan,DTP3,2017,95%
+Sudan,DTP1,2017,98%
+Sudan,MCV1,2016,86%
+Sudan,DTP3,2016,93%
+Sudan,DTP1,2016,97%
+Sudan,MCV1,2015,87%
+Sudan,DTP3,2015,93%
+Sudan,DTP1,2015,97%
+Sudan,MCV1,2014,86%
+Sudan,DTP3,2014,94%
+Sudan,DTP1,2014,98%
+Suriname,MCV1,2020,45%
+Suriname,DTP3,2020,51%
+Suriname,DTP1,2020,60%
+Suriname,MCV1,2019,64%
+Suriname,DTP3,2019,77%
+Suriname,DTP1,2019,81%
+Suriname,MCV1,2018,77%
+Suriname,DTP3,2018,81%
+Suriname,DTP1,2018,83%
+Suriname,MCV1,2017,76%
+Suriname,DTP3,2017,67%
+Suriname,DTP1,2017,78%
+Suriname,MCV1,2016,76%
+Suriname,DTP3,2016,77%
+Suriname,DTP1,2016,80%
+Suriname,MCV1,2015,76%
+Suriname,DTP3,2015,73%
+Suriname,DTP1,2015,74%
+Suriname,MCV1,2014,70%
+Suriname,DTP3,2014,71%
+Suriname,DTP1,2014,78%
+Syria,MCV1,2020,59%
+Syria,DTP3,2020,49%
+Syria,DTP1,2020,65%
+Syria,MCV1,2019,59%
+Syria,DTP3,2019,54%
+Syria,DTP1,2019,72%
+Syria,MCV1,2018,63%
+Syria,DTP3,2018,47%
+Syria,DTP1,2018,67%
+Syria,MCV1,2017,67%
+Syria,DTP3,2017,48%
+Syria,DTP1,2017,63%
+Syria,MCV1,2016,62%
+Syria,DTP3,2016,42%
+Syria,DTP1,2016,61%
+Syria,MCV1,2015,53%
+Syria,DTP3,2015,41%
+Syria,DTP1,2015,62%
+Syria,MCV1,2014,54%
+Syria,DTP3,2014,43%
+Syria,DTP1,2014,65%
+Tajikistan,MCV1,2020,98%
+Tajikistan,DTP3,2020,97%
+Tajikistan,DTP1,2020,98%
+Tajikistan,MCV1,2019,98%
+Tajikistan,DTP3,2019,97%
+Tajikistan,DTP1,2019,98%
+Tajikistan,MCV1,2018,98%
+Tajikistan,DTP3,2018,96%
+Tajikistan,DTP1,2018,98%
+Tajikistan,MCV1,2017,98%
+Tajikistan,DTP3,2017,96%
+Tajikistan,DTP1,2017,98%
+Tajikistan,MCV1,2016,97%
+Tajikistan,DTP3,2016,96%
+Tajikistan,DTP1,2016,98%
+Tajikistan,MCV1,2015,97%
+Tajikistan,DTP3,2015,96%
+Tajikistan,DTP1,2015,97%
+Tajikistan,MCV1,2014,98%
+Tajikistan,DTP3,2014,97%
+Tajikistan,DTP1,2014,98%
+Tanzania,MCV1,2020,84%
+Tanzania,DTP3,2020,86%
+Tanzania,DTP1,2020,88%
+Tanzania,MCV1,2019,88%
+Tanzania,DTP3,2019,89%
+Tanzania,DTP1,2019,91%
+Tanzania,MCV1,2018,88%
+Tanzania,DTP3,2018,89%
+Tanzania,DTP1,2018,91%
+Tanzania,MCV1,2017,90%
+Tanzania,DTP3,2017,90%
+Tanzania,DTP1,2017,93%
+Tanzania,MCV1,2016,83%
+Tanzania,DTP3,2016,92%
+Tanzania,DTP1,2016,95%
+Tanzania,MCV1,2015,95%
+Tanzania,DTP3,2015,96%
+Tanzania,DTP1,2015,97%
+Tanzania,MCV1,2014,97%
+Tanzania,DTP3,2014,97%
+Tanzania,DTP1,2014,99%
+Thailand,MCV1,2020,97%
+Thailand,DTP3,2020,98%
+Thailand,DTP1,2020,99%
+Thailand,MCV1,2019,96%
+Thailand,DTP3,2019,97%
+Thailand,DTP1,2019,99%
+Thailand,MCV1,2018,96%
+Thailand,DTP3,2018,97%
+Thailand,DTP1,2018,99%
+Thailand,MCV1,2017,99%
+Thailand,DTP3,2017,99%
+Thailand,DTP1,2017,99%
+Thailand,MCV1,2016,99%
+Thailand,DTP3,2016,99%
+Thailand,DTP1,2016,99%
+Thailand,MCV1,2015,99%
+Thailand,DTP3,2015,99%
+Thailand,DTP1,2015,99%
+Thailand,MCV1,2014,99%
+Thailand,DTP3,2014,99%
+Thailand,DTP1,2014,99%
+Timor-Leste,MCV1,2020,79%
+Timor-Leste,DTP3,2020,86%
+Timor-Leste,DTP1,2020,87%
+Timor-Leste,MCV1,2019,85%
+Timor-Leste,DTP3,2019,90%
+Timor-Leste,DTP1,2019,90%
+Timor-Leste,MCV1,2018,77%
+Timor-Leste,DTP3,2018,83%
+Timor-Leste,DTP1,2018,92%
+Timor-Leste,MCV1,2017,77%
+Timor-Leste,DTP3,2017,83%
+Timor-Leste,DTP1,2017,92%
+Timor-Leste,MCV1,2016,73%
+Timor-Leste,DTP3,2016,79%
+Timor-Leste,DTP1,2016,86%
+Timor-Leste,MCV1,2015,70%
+Timor-Leste,DTP3,2015,76%
+Timor-Leste,DTP1,2015,80%
+Timor-Leste,MCV1,2014,74%
+Timor-Leste,DTP3,2014,77%
+Timor-Leste,DTP1,2014,81%
+Togo,MCV1,2020,69%
+Togo,DTP3,2020,82%
+Togo,DTP1,2020,87%
+Togo,MCV1,2019,75%
+Togo,DTP3,2019,84%
+Togo,DTP1,2019,90%
+Togo,MCV1,2018,71%
+Togo,DTP3,2018,81%
+Togo,DTP1,2018,88%
+Togo,MCV1,2017,77%
+Togo,DTP3,2017,83%
+Togo,DTP1,2017,88%
+Togo,MCV1,2016,73%
+Togo,DTP3,2016,82%
+Togo,DTP1,2016,89%
+Togo,MCV1,2015,75%
+Togo,DTP3,2015,82%
+Togo,DTP1,2015,88%
+Togo,MCV1,2014,77%
+Togo,DTP3,2014,84%
+Togo,DTP1,2014,89%
+Tonga,MCV1,2020,99%
+Tonga,DTP3,2020,99%
+Tonga,DTP1,2020,99%
+Tonga,MCV1,2019,99%
+Tonga,DTP3,2019,99%
+Tonga,DTP1,2019,99%
+Tonga,MCV1,2018,99%
+Tonga,DTP3,2018,99%
+Tonga,DTP1,2018,99%
+Tonga,MCV1,2017,99%
+Tonga,DTP3,2017,99%
+Tonga,DTP1,2017,99%
+Tonga,MCV1,2016,98%
+Tonga,DTP3,2016,96%
+Tonga,DTP1,2016,97%
+Tonga,MCV1,2015,99%
+Tonga,DTP3,2015,96%
+Tonga,DTP1,2015,99%
+Tonga,MCV1,2014,99%
+Tonga,DTP3,2014,98%
+Tonga,DTP1,2014,99%
+Tunisia,MCV1,2020,93%
+Tunisia,DTP3,2020,92%
+Tunisia,DTP1,2020,92%
+Tunisia,MCV1,2019,95%
+Tunisia,DTP3,2019,92%
+Tunisia,DTP1,2019,94%
+Tunisia,MCV1,2018,89%
+Tunisia,DTP3,2018,90%
+Tunisia,DTP1,2018,93%
+Tunisia,MCV1,2017,91%
+Tunisia,DTP3,2017,92%
+Tunisia,DTP1,2017,92%
+Tunisia,MCV1,2016,90%
+Tunisia,DTP3,2016,93%
+Tunisia,DTP1,2016,93%
+Tunisia,MCV1,2015,94%
+Tunisia,DTP3,2015,93%
+Tunisia,DTP1,2015,93%
+Tunisia,MCV1,2014,94%
+Tunisia,DTP3,2014,94%
+Tunisia,DTP1,2014,95%
+Turkey,MCV1,2020,95%
+Turkey,DTP3,2020,98%
+Turkey,DTP1,2020,99%
+Turkey,MCV1,2019,97%
+Turkey,DTP3,2019,99%
+Turkey,DTP1,2019,99%
+Turkey,MCV1,2018,96%
+Turkey,DTP3,2018,98%
+Turkey,DTP1,2018,99%
+Turkey,MCV1,2017,96%
+Turkey,DTP3,2017,96%
+Turkey,DTP1,2017,98%
+Turkey,MCV1,2016,98%
+Turkey,DTP3,2016,98%
+Turkey,DTP1,2016,99%
+Turkey,MCV1,2015,97%
+Turkey,DTP3,2015,97%
+Turkey,DTP1,2015,98%
+Turkey,MCV1,2014,94%
+Turkey,DTP3,2014,96%
+Turkey,DTP1,2014,97%
+Turkmenistan,MCV1,2020,98%
+Turkmenistan,DTP3,2020,98%
+Turkmenistan,DTP1,2020,99%
+Turkmenistan,MCV1,2019,99%
+Turkmenistan,DTP3,2019,99%
+Turkmenistan,DTP1,2019,99%
+Turkmenistan,MCV1,2018,99%
+Turkmenistan,DTP3,2018,99%
+Turkmenistan,DTP1,2018,99%
+Turkmenistan,MCV1,2017,99%
+Turkmenistan,DTP3,2017,99%
+Turkmenistan,DTP1,2017,99%
+Turkmenistan,MCV1,2016,99%
+Turkmenistan,DTP3,2016,98%
+Turkmenistan,DTP1,2016,99%
+Turkmenistan,MCV1,2015,99%
+Turkmenistan,DTP3,2015,99%
+Turkmenistan,DTP1,2015,99%
+Turkmenistan,MCV1,2014,99%
+Turkmenistan,DTP3,2014,98%
+Turkmenistan,DTP1,2014,99%
+Tuvalu,MCV1,2020,93%
+Tuvalu,DTP3,2020,95%
+Tuvalu,DTP1,2020,99%
+Tuvalu,MCV1,2019,96%
+Tuvalu,DTP3,2019,92%
+Tuvalu,DTP1,2019,99%
+Tuvalu,MCV1,2018,88%
+Tuvalu,DTP3,2018,89%
+Tuvalu,DTP1,2018,99%
+Tuvalu,MCV1,2017,95%
+Tuvalu,DTP3,2017,96%
+Tuvalu,DTP1,2017,99%
+Tuvalu,MCV1,2016,96%
+Tuvalu,DTP3,2016,94%
+Tuvalu,DTP1,2016,99%
+Tuvalu,MCV1,2015,94%
+Tuvalu,DTP3,2015,96%
+Tuvalu,DTP1,2015,99%
+Tuvalu,MCV1,2014,94%
+Tuvalu,DTP3,2014,89%
+Tuvalu,DTP1,2014,99%
+Uganda,MCV1,2020,87%
+Uganda,DTP3,2020,89%
+Uganda,DTP1,2020,94%
+Uganda,MCV1,2019,87%
+Uganda,DTP3,2019,93%
+Uganda,DTP1,2019,96%
+Uganda,MCV1,2018,86%
+Uganda,DTP3,2018,93%
+Uganda,DTP1,2018,97%
+Uganda,MCV1,2017,83%
+Uganda,DTP3,2017,94%
+Uganda,DTP1,2017,99%
+Uganda,MCV1,2016,79%
+Uganda,DTP3,2016,93%
+Uganda,DTP1,2016,99%
+Uganda,MCV1,2015,79%
+Uganda,DTP3,2015,89%
+Uganda,DTP1,2015,97%
+Uganda,MCV1,2014,85%
+Uganda,DTP3,2014,85%
+Uganda,DTP1,2014,93%
+Ukraine,MCV1,2020,85%
+Ukraine,DTP3,2020,81%
+Ukraine,DTP1,2020,93%
+Ukraine,MCV1,2019,93%
+Ukraine,DTP3,2019,80%
+Ukraine,DTP1,2019,89%
+Ukraine,MCV1,2018,91%
+Ukraine,DTP3,2018,69%
+Ukraine,DTP1,2018,87%
+Ukraine,MCV1,2017,86%
+Ukraine,DTP3,2017,50%
+Ukraine,DTP1,2017,65%
+Ukraine,MCV1,2016,42%
+Ukraine,DTP3,2016,19%
+Ukraine,DTP1,2016,42%
+Ukraine,MCV1,2015,56%
+Ukraine,DTP3,2015,23%
+Ukraine,DTP1,2015,59%
+Ukraine,MCV1,2014,56%
+Ukraine,DTP3,2014,23%
+Ukraine,DTP1,2014,59%
+Uzbekistan,MCV1,2020,99%
+Uzbekistan,DTP3,2020,95%
+Uzbekistan,DTP1,2020,96%
+Uzbekistan,MCV1,2019,98%
+Uzbekistan,DTP3,2019,96%
+Uzbekistan,DTP1,2019,96%
+Uzbekistan,MCV1,2018,96%
+Uzbekistan,DTP3,2018,98%
+Uzbekistan,DTP1,2018,99%
+Uzbekistan,MCV1,2017,99%
+Uzbekistan,DTP3,2017,99%
+Uzbekistan,DTP1,2017,99%
+Uzbekistan,MCV1,2016,99%
+Uzbekistan,DTP3,2016,99%
+Uzbekistan,DTP1,2016,99%
+Uzbekistan,MCV1,2015,99%
+Uzbekistan,DTP3,2015,99%
+Uzbekistan,DTP1,2015,99%
+Uzbekistan,MCV1,2014,99%
+Uzbekistan,DTP3,2014,99%
+Uzbekistan,DTP1,2014,99%
+Vanuatu,MCV1,2020,78%
+Vanuatu,DTP3,2020,78%
+Vanuatu,DTP1,2020,84%
+Vanuatu,MCV1,2019,80%
+Vanuatu,DTP3,2019,90%
+Vanuatu,DTP1,2019,96%
+Vanuatu,MCV1,2018,75%
+Vanuatu,DTP3,2018,85%
+Vanuatu,DTP1,2018,94%
+Vanuatu,MCV1,2017,80%
+Vanuatu,DTP3,2017,85%
+Vanuatu,DTP1,2017,92%
+Vanuatu,MCV1,2016,84%
+Vanuatu,DTP3,2016,81%
+Vanuatu,DTP1,2016,94%
+Vanuatu,MCV1,2015,76%
+Vanuatu,DTP3,2015,80%
+Vanuatu,DTP1,2015,90%
+Vanuatu,MCV1,2014,90%
+Vanuatu,DTP3,2014,86%
+Vanuatu,DTP1,2014,94%
+Venezuela,MCV1,2020,76%
+Venezuela,DTP3,2020,54%
+Venezuela,DTP1,2020,73%
+Venezuela,MCV1,2019,93%
+Venezuela,DTP3,2019,64%
+Venezuela,DTP1,2019,85%
+Venezuela,MCV1,2018,74%
+Venezuela,DTP3,2018,60%
+Venezuela,DTP1,2018,84%
+Venezuela,MCV1,2017,96%
+Venezuela,DTP3,2017,66%
+Venezuela,DTP1,2017,95%
+Venezuela,MCV1,2016,88%
+Venezuela,DTP3,2016,84%
+Venezuela,DTP1,2016,97%
+Venezuela,MCV1,2015,92%
+Venezuela,DTP3,2015,87%
+Venezuela,DTP1,2015,98%
+Venezuela,MCV1,2014,89%
+Venezuela,DTP3,2014,78%
+Venezuela,DTP1,2014,88%
+Viet Nam,MCV1,2020,97%
+Viet Nam,DTP3,2020,94%
+Viet Nam,DTP1,2020,96%
+Viet Nam,MCV1,2019,95%
+Viet Nam,DTP3,2019,89%
+Viet Nam,DTP1,2019,96%
+Viet Nam,MCV1,2018,97%
+Viet Nam,DTP3,2018,75%
+Viet Nam,DTP1,2018,78%
+Viet Nam,MCV1,2017,97%
+Viet Nam,DTP3,2017,94%
+Viet Nam,DTP1,2017,98%
+Viet Nam,MCV1,2016,99%
+Viet Nam,DTP3,2016,96%
+Viet Nam,DTP1,2016,96%
+Viet Nam,MCV1,2015,97%
+Viet Nam,DTP3,2015,97%
+Viet Nam,DTP1,2015,98%
+Viet Nam,MCV1,2014,97%
+Viet Nam,DTP3,2014,95%
+Viet Nam,DTP1,2014,95%
+Yemen,MCV1,2020,68%
+Yemen,DTP3,2020,72%
+Yemen,DTP1,2020,83%
+Yemen,MCV1,2019,67%
+Yemen,DTP3,2019,73%
+Yemen,DTP1,2019,81%
+Yemen,MCV1,2018,64%
+Yemen,DTP3,2018,65%
+Yemen,DTP1,2018,75%
+Yemen,MCV1,2017,65%
+Yemen,DTP3,2017,68%
+Yemen,DTP1,2017,76%
+Yemen,MCV1,2016,70%
+Yemen,DTP3,2016,71%
+Yemen,DTP1,2016,76%
+Yemen,MCV1,2015,67%
+Yemen,DTP3,2015,69%
+Yemen,DTP1,2015,77%
+Yemen,MCV1,2014,67%
+Yemen,DTP3,2014,73%
+Yemen,DTP1,2014,82%
+Zambia,MCV1,2020,96%
+Zambia,DTP3,2020,84%
+Zambia,DTP1,2020,88%
+Zambia,MCV1,2019,93%
+Zambia,DTP3,2019,88%
+Zambia,DTP1,2019,94%
+Zambia,MCV1,2018,94%
+Zambia,DTP3,2018,90%
+Zambia,DTP1,2018,94%
+Zambia,MCV1,2017,96%
+Zambia,DTP3,2017,94%
+Zambia,DTP1,2017,95%
+Zambia,MCV1,2016,97%
+Zambia,DTP3,2016,95%
+Zambia,DTP1,2016,96%
+Zambia,MCV1,2015,90%
+Zambia,DTP3,2015,90%
+Zambia,DTP1,2015,97%
+Zambia,MCV1,2014,85%
+Zambia,DTP3,2014,86%
+Zambia,DTP1,2014,96%
+Zimbabwe,MCV1,2020,85%
+Zimbabwe,DTP3,2020,86%
+Zimbabwe,DTP1,2020,93%
+Zimbabwe,MCV1,2019,85%
+Zimbabwe,DTP3,2019,90%
+Zimbabwe,DTP1,2019,94%
+Zimbabwe,MCV1,2018,88%
+Zimbabwe,DTP3,2018,89%
+Zimbabwe,DTP1,2018,94%
+Zimbabwe,MCV1,2017,90%
+Zimbabwe,DTP3,2017,89%
+Zimbabwe,DTP1,2017,94%
+Zimbabwe,MCV1,2016,95%
+Zimbabwe,DTP3,2016,90%
+Zimbabwe,DTP1,2016,94%
+Zimbabwe,MCV1,2015,86%
+Zimbabwe,DTP3,2015,87%
+Zimbabwe,DTP1,2015,94%
+Zimbabwe,MCV1,2014,92%
+Zimbabwe,DTP3,2014,91%
+Zimbabwe,DTP1,2014,98%

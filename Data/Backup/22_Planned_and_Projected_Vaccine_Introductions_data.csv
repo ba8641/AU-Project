@@ -1,0 +1,236 @@
+﻿Country (group) (copy),Vaccine Introduction Date Group,Vaccine
+South Sudan,2023,YF
+Ethiopia,2022,YF
+Uganda,2021,YF
+Sudan,2021,YF
+Uganda,2023,Td
+Ethiopia,2023,Td
+Syria,2022,Td
+Namibia,2022,Td
+Mauritius,2022,Td
+Liberia,2022,Td
+Lesotho,2022,Td
+Jordan,2022,Td
+Gabon,2022,Td
+Congo,2022,Td
+Seychelles,2021,Td
+Tunisia,2029,TCV
+South Sudan,2029,TCV
+India,2028,TCV
+Chad,2028,TCV
+Burundi,2027,TCV
+Nigeria,2026,TCV
+Iraq,2026,TCV
+Togo,2025,TCV
+Indonesia,2025,TCV
+Ethiopia,2025,TCV
+DRC,2025,TCV
+Cambodia,2025,TCV
+Senegal,2024,TCV
+Mozambique,2024,TCV
+Mauritania,2024,TCV
+Malaysia,2024,TCV
+Algeria,2024,TCV
+Zambia,2023,TCV
+Thailand,2023,TCV
+Tanzania,2023,TCV
+Madagascar,2023,TCV
+Ghana,2023,TCV
+Burkina Faso,2023,TCV
+Bhutan,2023,TCV
+South Africa,2022,TCV
+Philippines,2022,TCV
+Nepal,2022,TCV
+Malawi,2022,TCV
+Kenya,2022,TCV
+Zimbabwe,2021,TCV
+Samoa,2021,TCV
+Liberia,2021,TCV
+Somalia,2027,Rota
+Syria,2026,Rota
+Egypt,2026,Rota
+Cuba,2026,Rota
+Cabo Verde,2026,Rota
+Belize,2026,Rota
+China,2025,Rota
+South Sudan,2024,Rota
+PNG,2024,Rota
+Laos,2024,Rota
+Cambodia,2024,Rota
+Bangladesh,2023,Rota
+Viet Nam,2022,Rota
+Vanuatu,2022,Rota
+Ukraine,2022,Rota
+Sri Lanka,2022,Rota
+Solomon Islands,2022,Rota
+Russia,2022,Rota
+North Korea,2022,Rota
+Nigeria,2022,Rota
+Mongolia,2022,Rota
+Indonesia,2022,Rota
+Guinea,2022,Rota
+Comoros,2022,Rota
+Chad,2022,Rota
+CAR,2022,Rota
+Cameroon,2022,Rota
+Bhutan,2022,Rota
+Azerbaijan,2022,Rota
+China,2028,PCV
+Thailand,2027,PCV
+Egypt,2027,PCV
+South Sudan,2026,PCV
+Viet Nam,2025,PCV
+Somalia,2025,PCV
+Montenegro,2025,PCV
+Iran,2025,PCV
+Gabon,2025,PCV
+Chad,2025,PCV
+Bosnia,2025,PCV
+Sri Lanka,2024,PCV
+Saint Vincent,2024,PCV
+Saint Lucia,2024,PCV
+Maldives,2024,PCV
+Jamaica,2024,PCV
+Syria,2023,PCV
+North Korea,2023,PCV
+Grenada,2023,PCV
+Belize,2023,PCV
+Vanuatu,2022,PCV
+Ukraine,2022,PCV
+Tajikistan,2022,PCV
+Cuba,2022,PCV
+Comoros,2022,PCV
+Cabo Verde,2022,PCV
+Belarus,2022,PCV
+Tonga,2021,PCV
+Timor-Leste,2021,PCV
+Samoa,2021,PCV
+Jordan,2021,PCV
+Indonesia,2021,PCV
+India,2021,PCV
+Guinea,2021,PCV
+Estonia,2021,PCV
+Brunei,2021,PCV
+Antigua,2021,PCV
+Gabon,2029,MR
+Djibouti,2029,MR
+Equatorial Guinea,2028,MR
+Vanuatu,2027,MR
+Somalia,2026,MR
+Nigeria,2026,MR
+Chad,2026,MR
+South Sudan,2025,MR
+Guinea,2025,MR
+CAR,2025,MR
+Afghanistan,2025,MR
+Madagascar,2024,MR
+DRC,2024,MR
+Sudan,2023,MR
+Ethiopia,2023,MR
+Niger,2022,MR
+Mali,2022,MR
+Liberia,2022,MR
+Guinea-Bissau,2022,MR
+Comoros,2022,MR
+Uganda,2021,MR
+Pakistan,2021,MR
+Mauritania,2021,MR
+DRC,2022,MenA
+Uganda,2021,MenA
+Togo,2021,MenA
+South Sudan,2021,MenA
+Senegal,2021,MenA
+Mauritania,2021,MenA
+Guinea-Bissau,2021,MenA
+Guinea,2021,MenA
+Ethiopia,2021,MenA
+Cameroon,2021,MenA
+Benin,2021,MenA
+Bhutan,2025,JE
+Bangladesh,2023,JE
+Yemen,2028,HPV
+Viet Nam,2028,HPV
+Ukraine,2028,HPV
+South Sudan,2028,HPV
+Somalia,2028,HPV
+Kiribati,2028,HPV
+Chad,2028,HPV
+CAR,2028,HPV
+Angola,2028,HPV
+Comoros,2027,HPV
+Venezuela,2026,HPV
+Syria,2026,HPV
+Iraq,2026,HPV
+Algeria,2026,HPV
+Sudan,2025,HPV
+Jordan,2025,HPV
+Egypt,2025,HPV
+DRC,2025,HPV
+Cuba,2025,HPV
+China,2025,HPV
+Tajikistan,2024,HPV
+Russia,2024,HPV
+Pakistan,2024,HPV
+North Korea,2024,HPV
+Nicaragua,2024,HPV
+Mongolia,2024,HPV
+Madagascar,2024,HPV
+Lebanon,2024,HPV
+Haiti,2024,HPV
+Guinea-Bissau,2024,HPV
+Djibouti,2024,HPV
+Bahrain,2024,HPV
+Turkey,2023,HPV
+Togo,2023,HPV
+Timor-Leste,2023,HPV
+Romania,2023,HPV
+PNG,2023,HPV
+Nigeria,2023,HPV
+Niger,2023,HPV
+Nepal,2023,HPV
+India,2023,HPV
+Guinea,2023,HPV
+Ghana,2023,HPV
+Congo,2023,HPV
+Cambodia,2023,HPV
+Burundi,2023,HPV
+Bosnia,2023,HPV
+Benin,2023,HPV
+Bangladesh,2023,HPV
+Azerbaijan,2023,HPV
+Albania,2023,HPV
+Afghanistan,2023,HPV
+Tunisia,2022,HPV
+Slovakia,2022,HPV
+Sierra Leone,2022,HPV
+Serbia,2022,HPV
+Saudi Arabia,2022,HPV
+Poland,2022,HPV
+Mozambique,2022,HPV
+Lesotho,2022,HPV
+Kyrgyzstan,2022,HPV
+Eswatini,2022,HPV
+Eritrea,2022,HPV
+Burkina Faso,2022,HPV
+Belarus,2022,HPV
+Vanuatu,2021,HPV
+Tonga,2021,HPV
+São Tomé,2021,HPV
+Samoa,2021,HPV
+Oman,2021,HPV
+Morocco,2021,HPV
+Montenegro,2021,HPV
+Mauritania,2021,HPV
+Kuwait,2021,HPV
+Kazakhstan,2021,HPV
+Iran,2021,HPV
+Gabon,2021,HPV
+Equatorial Guinea,2021,HPV
+Cabo Verde,2021,HPV
+Togo,2023,HepB
+South Africa,2023,HepB
+Ethiopia,2023,HepB
+Niger,2022,HepB
+Cameroon,2022,HepB
+CAR,2021,HepB
+Antigua,2021,HepB
